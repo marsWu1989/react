@@ -1,0 +1,50 @@
+/* *
+ * _base.scss
+ * */
+
+$default_width: 375px;
+
+/* *
+ * @brief unit conversion
+ * params  number
+ * @return em or vm/vh
+ * */
+@function uc($n: 0) {
+    @return ($n * 1px) / $default_width * 1rem * 10;
+}
+/* *
+ * @brief clear, close float
+ * */
+%clearfix{
+    &:before,
+    &:after {
+        content: ' ';
+        display: table;
+        font: 0/0 a;
+    }
+    &:after {
+        clear: both;
+    }
+}
+
+/* *
+ * @brief level color
+ * */
+%warn_1 {
+    background-color: #8fc31f;
+}
+%warn_2 {
+    background-color: #d7af0e;
+}
+%warn_3 {
+    background-color: #f39800;
+}
+%warn_4 {
+    background-color: #e2361a;
+}
+%warn_5 {
+    background-color: #5f52a0;
+}
+%warn_6 {
+    background-color: #631541;
+}

@@ -1,0 +1,34 @@
+@import "./../../scss/_base.scss";
+
+.info {
+    padding: uc(20);
+}
+.time {
+    margin: uc(10) uc(20);
+
+    font-size: 14px;
+    text-align: right;
+}
+.text {
+    margin: uc(5) 0;
+    line-height: 1.5;
+
+    color: #767d89;
+    font-size: 12px;
+}
+img {
+    width: 100%;
+}
+
+[data-dpr="2"] .time {
+    font-size: 28px;
+}
+[data-dpr="2"] .text {
+    font-size: 24px;
+}
+[data-dpr="3"] .time {
+    font-size: 42px;
+}
+[data-dpr="3"] .text {
+    font-size: 36px;
+}

@@ -1,0 +1,97 @@
+@import "./../../scss/_base.scss";
+
+.weather {
+    width: 100%;
+    height: uc(628);
+
+    color: #fff;
+
+    background: url(./bg_weather.jpg) no-repeat;
+    background-size: 100%;
+}
+.title {
+    display: block;
+    width: uc(195);
+    height: uc(75);
+    margin: 0 auto;
+    padding: uc(45) 0;
+
+    background: url(./t_weather.png) no-repeat center;
+    background-size: 100%;
+}
+.phone {
+    display: block;
+    width: uc(320);
+    height: uc(314);
+    margin: 0 auto;
+
+    background: url(./phone.png) no-repeat center;
+    background-size: 100%;
+}
+.desc {
+    padding: 0 uc(15);
+
+    @extend %clearfix;
+}
+.time,
+.KM,
+.AI,
+.view {
+    float: left;
+    margin: uc(10) 0 0 0;
+    padding-left: uc(40);
+
+    line-height: 1.5;
+    b {
+        display: block;
+
+        font-size: 15px;
+        font-weight: 100;
+    }
+    span {
+        display: block;
+
+        font-size: 10px;
+    }
+}
+.time {
+    width: uc(120);
+    background: url(./i_time.png) no-repeat center left;
+    background-size: uc(31) uc(34);
+}
+.KM {
+    background: url(./i_KM.png) no-repeat center left;
+    background-size: uc(30) uc(34);
+}
+.AI {
+    width: uc(120);
+    background: url(./i_AI.png) no-repeat center left;
+    background-size: uc(32) uc(28);
+}
+.view {
+    background: url(./i_view.png) no-repeat center left;
+    background-size: uc(35) uc(34);
+}
+
+[data-dpr="2"] .time,
+[data-dpr="2"] .KM,
+[data-dpr="2"] .AI,
+[data-dpr="2"] .view {
+    b {
+        font-size: 30px;
+    }
+    span {
+        font-size: 20px;
+    }
+}
+[data-dpr="3"] .time,
+[data-dpr="3"] .KM,
+[data-dpr="3"] .AI,
+[data-dpr="3"] .view {
+    b {
+        font-size: 45px;
+    }
+    span {
+        font-size: 30px;
+    }
+}

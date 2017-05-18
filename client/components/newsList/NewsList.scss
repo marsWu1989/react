@@ -1,0 +1,44 @@
+@import "./../../scss/_base.scss";
+
+.newsList {
+    padding: uc(20);
+}
+.item {
+    padding: uc(30) 0;
+}
+.title {
+    a {
+        color: #333;
+        font-size: 16px;
+        text-decoration: none;
+    }
+}
+.text {
+    margin: uc(5) 0;
+    line-height: 1.5;
+
+    color: #767d89;
+    font-size: 12px;
+}
+.img {
+    width: 100%;
+    img {
+        width: 100%;
+    }
+}
+[data-dpr="2"] .title {
+    a {
+        font-size: 32px;
+    }
+}
+[data-dpr="2"] .text {
+    font-size: 24px;
+}
+[data-dpr="3"] .title {
+    a {
+        font-size: 48px;
+    }
+}
+[data-dpr="3"] .text {
+    font-size: 36px;
+}

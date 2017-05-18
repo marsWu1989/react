@@ -1,0 +1,775 @@
+2017-05-03 09:48:47.071 2017-05-03 09:48:47.061 nodejs.ReferenceErrorException: ReferenceError: option is not defined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:10:42
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:7:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:99)
+    at Object.num (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:5:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/controllers/RealTime.js:6:42)
+pid: 38583
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-05-03 09:48:47.061
+
+2017-05-03 09:48:49.420 2017-05-03 09:48:49.419 nodejs.ReferenceErrorException: ReferenceError: option is not defined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:10:42
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:7:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:99)
+    at Object.num (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:5:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/controllers/RealTime.js:6:42)
+pid: 38583
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-05-03 09:48:49.419
+
+2017-05-03 09:48:51.129 2017-05-03 09:48:51.129 nodejs.ReferenceErrorException: ReferenceError: option is not defined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:10:42
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:7:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:99)
+    at Object.num (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:5:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/controllers/RealTime.js:6:42)
+pid: 38583
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-05-03 09:48:51.129
+
+2017-05-03 09:48:52.950 2017-05-03 09:48:52.950 nodejs.ReferenceErrorException: ReferenceError: option is not defined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:10:42
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:7:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:99)
+    at Object.num (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:5:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/controllers/RealTime.js:6:42)
+pid: 38583
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-05-03 09:48:52.950
+
+2017-05-03 09:48:54.286 2017-05-03 09:48:54.286 nodejs.ReferenceErrorException: ReferenceError: option is not defined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:10:42
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:7:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:99)
+    at Object.num (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:5:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/controllers/RealTime.js:6:42)
+pid: 38583
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-05-03 09:48:54.286
+
+2017-05-03 09:50:23.189 2017-05-03 09:50:23.181 nodejs.ReferenceErrorException: ReferenceError: option is not defined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:10:42
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:7:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:99)
+    at Object.num (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:5:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/controllers/RealTime.js:6:42)
+pid: 38596
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-05-03 09:50:23.181
+
+2017-05-03 09:50:29.249 2017-05-03 09:50:29.249 nodejs.ReferenceErrorException: ReferenceError: option is not defined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:10:42
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:7:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:99)
+    at Object.num (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:5:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/controllers/RealTime.js:6:42)
+pid: 38596
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-05-03 09:50:29.249
+
+2017-05-03 09:50:29.982 2017-05-03 09:50:29.981 nodejs.ReferenceErrorException: ReferenceError: option is not defined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:10:42
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:7:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:99)
+    at Object.num (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:5:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/controllers/RealTime.js:6:42)
+pid: 38596
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-05-03 09:50:29.981
+
+2017-05-03 09:50:43.832 2017-05-03 09:50:43.830 nodejs.ReferenceErrorException: ReferenceError: option is not defined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:10:42
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:7:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:99)
+    at Object.num (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:5:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/controllers/RealTime.js:6:42)
+pid: 38596
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-05-03 09:50:43.830
+
+2017-05-03 09:51:17.496 2017-05-03 09:51:17.487 nodejs.ReferenceErrorException: ReferenceError: option is not defined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:10:42
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:7:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:99)
+    at Object.num (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:5:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/controllers/RealTime.js:6:42)
+pid: 38611
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-05-03 09:51:17.487
+
+2017-05-03 09:51:17.704 2017-05-03 09:51:17.703 nodejs.ReferenceErrorException: ReferenceError: option is not defined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:10:42
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:7:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:99)
+    at Object.num (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:5:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/controllers/RealTime.js:6:42)
+pid: 38611
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-05-03 09:51:17.703
+
+2017-05-03 09:51:33.138 2017-05-03 09:51:33.126 nodejs.ReferenceErrorException: ReferenceError: option is not defined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:10:42
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:7:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:99)
+    at Object.num (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:5:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/controllers/RealTime.js:6:42)
+pid: 38628
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-05-03 09:51:33.126
+
+2017-05-03 09:52:32.101 2017-05-03 09:52:32.099 nodejs.ReferenceErrorException: ReferenceError: option is not defined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:10:42
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:7:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:9:99)
+    at Object.num (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/RealTimeModel.js:5:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/controllers/RealTime.js:6:42)
+pid: 38628
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-05-03 09:52:32.099
+
+2017-05-03 18:05:34.140 server error TypeError: Cannot read property 'data' of undefined
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/client/reducers/report.jsx:18:13)
+    at combination (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/combineReducers.js:132:29)
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/createStore.js:179:22)
+    at Object.dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux-thunk/lib/index.js:14:16)
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:25:11)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:66:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+
+2017-05-03 18:07:00.739 server error TypeError: Cannot read property 'data' of undefined
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/client/reducers/report.jsx:23:26)
+    at combination (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/combineReducers.js:132:29)
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/createStore.js:179:22)
+    at Object.dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux-thunk/lib/index.js:14:16)
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:25:11)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:66:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+
+2017-05-03 18:07:46.660 server error TypeError: Cannot read property 'rows' of undefined
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/client/reducers/report.jsx:18:13)
+    at combination (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/combineReducers.js:132:29)
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/createStore.js:179:22)
+    at Object.dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux-thunk/lib/index.js:14:16)
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:25:11)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:66:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+
+2017-05-03 18:08:16.967 server error TypeError: Cannot read property 'rows' of undefined
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/client/reducers/report.jsx:19:13)
+    at combination (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/combineReducers.js:132:29)
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/createStore.js:179:22)
+    at Object.dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux-thunk/lib/index.js:14:16)
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:25:11)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:66:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+
+2017-05-03 18:08:33.764 server error TypeError: Cannot read property 'rows' of undefined
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/client/reducers/report.jsx:19:13)
+    at combination (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/combineReducers.js:132:29)
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/createStore.js:179:22)
+    at Object.dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux-thunk/lib/index.js:14:16)
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:25:11)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:66:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+
+2017-05-03 18:10:34.423 server error TypeError: Cannot read property 'rows' of undefined
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/client/reducers/report.jsx:19:13)
+    at combination (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/combineReducers.js:132:29)
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/createStore.js:179:22)
+    at Object.dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux-thunk/lib/index.js:14:16)
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:25:11)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:66:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+
+2017-05-03 18:12:03.734 server error TypeError: Cannot read property 'data' of undefined
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/client/reducers/report.jsx:19:13)
+    at combination (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/combineReducers.js:132:29)
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/createStore.js:179:22)
+    at Object.dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux-thunk/lib/index.js:14:16)
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:25:11)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:66:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+
+2017-05-03 18:12:43.786 server error ReferenceError: data is not defined
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/client/reducers/news.jsx:18:25)
+    at combination (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/combineReducers.js:132:29)
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/createStore.js:179:22)
+    at Object.dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux-thunk/lib/index.js:14:16)
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:22:11)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:66:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+
+2017-05-03 18:12:44.349 server error ReferenceError: data is not defined
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/client/reducers/news.jsx:18:25)
+    at combination (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/combineReducers.js:132:29)
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/createStore.js:179:22)
+    at Object.dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux-thunk/lib/index.js:14:16)
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:22:11)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:66:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+
+2017-05-03 18:12:48.592 server error ReferenceError: data is not defined
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/client/reducers/news.jsx:18:25)
+    at combination (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/combineReducers.js:132:29)
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/createStore.js:179:22)
+    at Object.dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux-thunk/lib/index.js:14:16)
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:22:11)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:66:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+
+2017-05-03 18:12:55.158 server error ReferenceError: data is not defined
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/client/reducers/news.jsx:18:25)
+    at combination (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/combineReducers.js:132:29)
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/createStore.js:179:22)
+    at Object.dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux-thunk/lib/index.js:14:16)
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:22:11)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:66:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+
+2017-05-03 18:12:57.397 server error ReferenceError: data is not defined
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/client/reducers/news.jsx:18:25)
+    at combination (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/combineReducers.js:132:29)
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/createStore.js:179:22)
+    at Object.dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux-thunk/lib/index.js:14:16)
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:22:11)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:66:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+
+2017-05-03 18:15:07.531 2017-05-03 18:15:07.523 nodejs.ReferenceErrorException: ReferenceError: dara is not defined
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/ReportModel.js:20:21)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/ReportModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/ReportModel.js:9:361
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+pid: 41327
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-05-03 18:15:07.523
+
+2017-05-03 18:15:07.561 server error TypeError: Cannot read property 'data' of undefined
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/client/reducers/report.jsx:18:13)
+    at combination (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/combineReducers.js:132:29)
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/createStore.js:179:22)
+    at Object.dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux-thunk/lib/index.js:14:16)
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:25:11)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:66:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+
+2017-05-03 18:16:01.761 2017-05-03 18:16:01.753 nodejs.ReferenceErrorException: ReferenceError: dara is not defined
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/ReportModel.js:20:21)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/ReportModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/ReportModel.js:9:361
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+pid: 41343
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-05-03 18:16:01.753
+
+2017-05-03 18:16:01.786 server error TypeError: Cannot read property 'data' of undefined
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/client/reducers/report.jsx:19:13)
+    at combination (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/combineReducers.js:132:29)
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/createStore.js:179:22)
+    at Object.dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux-thunk/lib/index.js:14:16)
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:25:11)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:66:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+
+2017-05-03 18:17:32.152 2017-05-03 18:17:32.144 nodejs.ReferenceErrorException: ReferenceError: dara is not defined
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/ReportModel.js:20:21)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/ReportModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/ReportModel.js:9:361
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+pid: 41364
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-05-03 18:17:32.144
+
+2017-05-03 18:17:32.179 server error TypeError: Cannot read property 'data' of undefined
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/client/reducers/report.jsx:18:13)
+    at combination (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/combineReducers.js:132:29)
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/createStore.js:179:22)
+    at Object.dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux-thunk/lib/index.js:14:16)
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:25:11)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:66:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+
+2017-05-03 18:17:41.162 2017-05-03 18:17:41.161 nodejs.ReferenceErrorException: ReferenceError: dara is not defined
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/ReportModel.js:20:21)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/ReportModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/ReportModel.js:9:361
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+pid: 41364
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-05-03 18:17:41.161
+
+2017-05-03 18:17:41.164 server error TypeError: Cannot read property 'data' of undefined
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/client/reducers/report.jsx:18:13)
+    at combination (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/combineReducers.js:132:29)
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/createStore.js:179:22)
+    at Object.dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux-thunk/lib/index.js:14:16)
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:25:11)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:66:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+
+2017-05-03 18:17:58.064 2017-05-03 18:17:58.057 nodejs.ReferenceErrorException: ReferenceError: dara is not defined
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/ReportModel.js:20:21)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/ReportModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/ReportModel.js:9:361
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+pid: 41378
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-05-03 18:17:58.057
+
+2017-05-03 18:17:58.091 server error { TypeError: Cannot read property 'data' of undefined
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/client/reducers/report.jsx:18:13)
+    at combination (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/combineReducers.js:132:29)
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/createStore.js:179:22)
+    at Object.dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux-thunk/lib/index.js:14:16)
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:25:11)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:66:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7 headerSent: true }
+
+2017-05-03 18:17:58.230 2017-05-03 18:17:58.230 nodejs.ReferenceErrorException: ReferenceError: dara is not defined
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/ReportModel.js:20:21)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/ReportModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/ReportModel.js:9:361
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+pid: 41378
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-05-03 18:17:58.230
+
+2017-05-03 18:17:58.233 server error TypeError: Cannot read property 'data' of undefined
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/client/reducers/report.jsx:18:13)
+    at combination (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/combineReducers.js:132:29)
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/createStore.js:179:22)
+    at Object.dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux-thunk/lib/index.js:14:16)
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:25:11)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:66:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+
+2017-05-03 18:18:49.305 2017-05-03 18:18:49.297 nodejs.ReferenceErrorException: ReferenceError: dara is not defined
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/ReportModel.js:20:21)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/ReportModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/ReportModel.js:9:361
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+pid: 41396
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-05-03 18:18:49.297
+
+2017-05-03 18:18:49.321 server error TypeError: Cannot read property 'data' of undefined
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/client/reducers/report.jsx:18:13)
+    at combination (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/combineReducers.js:132:29)
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/createStore.js:179:22)
+    at Object.dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux-thunk/lib/index.js:14:16)
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:26:11)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:66:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+
+2017-05-03 18:19:46.856 server error TypeError: Cannot read property 'data' of undefined
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/client/reducers/report.jsx:18:13)
+    at combination (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/combineReducers.js:132:29)
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/createStore.js:179:22)
+    at Object.dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux-thunk/lib/index.js:14:16)
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:25:11)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:66:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+
+2017-05-03 18:20:20.329 server error TypeError: Cannot read property 'data' of undefined
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/client/reducers/report.jsx:18:13)
+    at combination (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/combineReducers.js:132:29)
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/createStore.js:179:22)
+    at Object.dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux-thunk/lib/index.js:14:16)
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:26:11)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:66:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+
+2017-05-03 18:20:45.470 server error TypeError: Cannot read property 'data' of undefined
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/client/reducers/report.jsx:18:13)
+    at combination (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/combineReducers.js:132:29)
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/createStore.js:179:22)
+    at Object.dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux-thunk/lib/index.js:14:16)
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:25:11)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:66:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+
+2017-05-03 18:21:51.637 server error TypeError: Cannot read property 'data' of undefined
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/client/reducers/report.jsx:19:13)
+    at combination (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/combineReducers.js:132:29)
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/createStore.js:179:22)
+    at Object.dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux-thunk/lib/index.js:14:16)
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:25:11)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:66:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+
+2017-05-03 18:33:44.902 server error TypeError: Cannot read property 'length' of undefined
+    at AreportList.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/AreportList/index.jsx:18:30)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+
+2017-05-03 18:34:26.005 server error TypeError: Cannot read property 'length' of undefined
+    at AreportList.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/AreportList/index.jsx:18:30)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+
+2017-05-03 18:35:05.413 server error TypeError: Cannot read property 'length' of undefined
+    at AreportList.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/AreportList/index.jsx:19:30)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+
+2017-05-03 18:35:34.828 server error TypeError: Cannot read property 'length' of undefined
+    at AreportList.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/AreportList/index.jsx:19:30)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+
+2017-05-03 18:36:27.461 server error TypeError: Cannot read property 'length' of undefined
+    at AreportList.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/AreportList/index.jsx:19:30)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+
+2017-05-03 18:38:59.436 server error TypeError: Cannot read property 'length' of undefined
+    at AreportList (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/AreportList/index.jsx:11:26)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:306:16
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._constructComponentWithoutOwner (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:305:14)
+    at ReactCompositeComponentWrapper._constructComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:280:21)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:188:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+    at ReactDOMComponent.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:520:29)
+
+2017-05-03 18:39:55.417 server error TypeError: Cannot read property 'length' of undefined
+    at AreportList (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/AreportList/index.jsx:11:26)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:306:16
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._constructComponentWithoutOwner (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:305:14)
+    at ReactCompositeComponentWrapper._constructComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:280:21)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:188:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+    at ReactDOMComponent.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:520:29)
+
+2017-05-03 18:40:17.568 server error TypeError: Cannot read property 'length' of undefined
+    at AreportList (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/AreportList/index.jsx:10:26)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:306:16
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._constructComponentWithoutOwner (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:305:14)
+    at ReactCompositeComponentWrapper._constructComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:280:21)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:188:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+    at ReactDOMComponent.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:520:29)
+
+2017-05-03 18:40:48.701 server error TypeError: Cannot read property 'length' of undefined
+    at AreportList (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/AreportList/index.jsx:10:26)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:306:16
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._constructComponentWithoutOwner (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:305:14)
+    at ReactCompositeComponentWrapper._constructComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:280:21)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:188:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+    at ReactDOMComponent.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:520:29)
+
+2017-05-03 18:41:14.602 server error TypeError: Cannot read property 'length' of undefined
+    at AreportList (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/AreportList/index.jsx:10:26)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:306:16
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._constructComponentWithoutOwner (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:305:14)
+    at ReactCompositeComponentWrapper._constructComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:280:21)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:188:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+    at ReactDOMComponent.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:520:29)
+
+2017-05-03 18:41:38.221 server error TypeError: Cannot read property 'length' of undefined
+    at AreportList (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/AreportList/index.jsx:10:26)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:306:16
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._constructComponentWithoutOwner (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:305:14)
+    at ReactCompositeComponentWrapper._constructComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:280:21)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:188:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+    at ReactDOMComponent.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:520:29)
+
+2017-05-03 18:41:52.551 server error TypeError: Cannot read property 'length' of undefined
+    at AreportList (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/AreportList/index.jsx:10:26)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:306:16
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._constructComponentWithoutOwner (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:305:14)
+    at ReactCompositeComponentWrapper._constructComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:280:21)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:188:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+    at ReactDOMComponent.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:520:29)
+
+2017-05-03 18:42:36.136 server error TypeError: Cannot read property 'length' of undefined
+    at AreportList (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/AreportList/index.jsx:10:26)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:306:16
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._constructComponentWithoutOwner (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:305:14)
+    at ReactCompositeComponentWrapper._constructComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:280:21)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:188:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+    at ReactDOMComponent.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:520:29)
+
+2017-05-03 18:44:53.186 server error TypeError: Cannot read property 'length' of undefined
+    at AreportList (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/AreportList/index.jsx:10:26)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:306:16
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._constructComponentWithoutOwner (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:305:14)
+    at ReactCompositeComponentWrapper._constructComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:280:21)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:188:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+    at ReactDOMComponent.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:520:29)
+
+2017-05-03 18:45:37.405 server error TypeError: Cannot read property 'length' of undefined
+    at AreportList (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/AreportList/index.jsx:9:26)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:306:16
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._constructComponentWithoutOwner (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:305:14)
+    at ReactCompositeComponentWrapper._constructComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:280:21)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:188:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+    at ReactDOMComponent.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:520:29)
+

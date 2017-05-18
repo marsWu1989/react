@@ -1,0 +1,44 @@
+@import "./../../scss/_base.scss";
+
+.AbizInfo {
+}
+.AbizInfo ul {
+    @extend %clearfix;
+}
+.item {
+    position: relative;
+
+    width: uc(140);
+    height: uc(170);
+
+    float: left;
+    margin: 0 0 uc(20) uc(18);
+    padding: uc(20) uc(10);
+
+    border-radius: uc(10);
+    background: #5aacf3;
+    color: #fff;
+    overflow: hidden;
+}
+.title {
+    margin: 0 0 uc(10) 0;
+    font-size: 17px;
+    text-align: center;
+}
+.desc {
+    line-height: 1.5;
+    font-size: 12px;
+    opacity: .8;
+}
+[data-dpr="2"] .title {
+    font-size: 34px;
+}
+[data-dpr="2"] .desc {
+    font-size: 24px;
+}
+[data-dpr="3"] .title {
+    font-size: 51px;
+}
+[data-dpr="3"] .desc {
+    font-size: 36px;
+}

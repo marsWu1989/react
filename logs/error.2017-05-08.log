@@ -1,0 +1,772 @@
+2017-05-08 16:42:45.752 server error TypeError: news.data.data.map is not a function
+    at IndexInfo (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/indexInfo/index.jsx:12:36)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:306:16
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._constructComponentWithoutOwner (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:305:14)
+    at ReactCompositeComponentWrapper._constructComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:280:21)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:188:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+    at ReactDOMComponent.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:520:29)
+
+2017-05-08 16:45:19.581 server error { Invariant Violation: Objects are not valid as a React child (found: object with keys {id, title, keywords, description, content, create_time, update_time, isshow, writer, sign}). If you meant to render a collection of children, use an array instead or wrap the object using createFragment(object) from the React add-ons. Check the render method of `IndexInfo`.
+    at invariant (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/fbjs/lib/invariant.js:44:15)
+    at traverseAllChildrenImpl (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/traverseAllChildren.js:144:56)
+    at traverseAllChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/traverseAllChildren.js:172:10)
+    at Object.instantiateChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactChildReconciler.js:70:7)
+    at ReactDOMComponent._reconcilerInstantiateChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:187:41)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:226:27)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+    at ReactDOMComponent.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:520:29)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44) name: 'Invariant Violation', framesToPop: 1 }
+
+2017-05-08 17:14:26.608 server error TypeError: Cannot read property 'id' of undefined
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:29:16)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.detail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:15:40)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+
+2017-05-08 17:14:52.036 2017-05-08 17:14:52.027 nodejs.ReferenceErrorException: ReferenceError: id is not defined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:33:66
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:31:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.detail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:15:40)
+pid: 55603
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-05-08 17:14:52.027
+
+2017-05-08 17:14:52.052 2017-05-08 17:14:52.049 nodejs.ReferenceErrorException: ReferenceError: id is not defined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:33:66
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:31:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.detail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/controllers/News.js:19:38)
+pid: 55603
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-05-08 17:14:52.049
+
+2017-05-08 17:14:52.170 server error Error: next() called multiple times
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:38:45)
+    at next (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:45:18)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:23:11)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:41:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:41:361
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+
+2017-05-08 17:15:09.010 server error TypeError: Cannot read property 'id' of undefined
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:29:17)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.detail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:15:40)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+
+2017-05-08 17:15:20.254 server error TypeError: Cannot read property 'id' of undefined
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:29:17)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.detail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:15:40)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+
+2017-05-08 17:15:21.791 server error TypeError: Cannot read property 'id' of undefined
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:29:17)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.detail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:15:40)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+
+2017-05-08 17:15:29.538 server error TypeError: Cannot read property 'id' of undefined
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:29:17)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.detail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:15:40)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+
+2017-05-08 17:15:31.302 server error TypeError: Cannot read property 'id' of undefined
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:29:17)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.detail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:15:40)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+
+2017-05-08 17:15:32.292 server error TypeError: Cannot read property 'id' of undefined
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:29:17)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.detail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:15:40)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+
+2017-05-08 17:15:32.572 server error TypeError: Cannot read property 'id' of undefined
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:29:17)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.detail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:15:40)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+
+2017-05-08 17:15:32.857 server error TypeError: Cannot read property 'id' of undefined
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:29:17)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.detail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:15:40)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+
+2017-05-08 17:15:33.040 server error TypeError: Cannot read property 'id' of undefined
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:29:17)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.detail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:15:40)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+
+2017-05-08 17:15:34.259 server error TypeError: Cannot read property 'id' of undefined
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:29:17)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.detail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:15:40)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+
+2017-05-08 17:15:46.460 2017-05-08 17:15:46.440 nodejs.ReferenceErrorException: ReferenceError: id is not defined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:33:66
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:31:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.detail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:15:40)
+pid: 55616
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-05-08 17:15:46.440
+
+2017-05-08 17:15:46.476 2017-05-08 17:15:46.474 nodejs.ReferenceErrorException: ReferenceError: id is not defined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:33:66
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:31:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.detail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/controllers/News.js:19:38)
+pid: 55616
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-05-08 17:15:46.474
+
+2017-05-08 17:15:46.612 server error Error: next() called multiple times
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:38:45)
+    at next (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:45:18)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:23:11)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:41:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:41:361
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+
+2017-05-08 17:16:57.219 2017-05-08 17:16:57.194 nodejs.ReferenceErrorException: ReferenceError: id is not defined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:33:66
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:31:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.detail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:15:40)
+pid: 55627
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-05-08 17:16:57.194
+
+2017-05-08 17:16:57.255 2017-05-08 17:16:57.229 nodejs.ReferenceErrorException: ReferenceError: id is not defined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:33:66
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:31:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.detail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/controllers/News.js:19:38)
+pid: 55627
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-05-08 17:16:57.229
+
+2017-05-08 17:16:57.399 server error Error: next() called multiple times
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:38:45)
+    at next (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:45:18)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:25:11)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:41:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:41:361
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+
+2017-05-08 17:17:17.633 2017-05-08 17:17:17.625 nodejs.ReferenceErrorException: ReferenceError: id is not defined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:33:66
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:31:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.detail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:15:40)
+pid: 55630
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-05-08 17:17:17.625
+
+2017-05-08 17:17:17.638 2017-05-08 17:17:17.636 nodejs.ReferenceErrorException: ReferenceError: id is not defined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:33:66
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:31:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.detail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/controllers/News.js:19:38)
+pid: 55630
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-05-08 17:17:17.636
+
+2017-05-08 17:17:20.413 2017-05-08 17:17:20.412 nodejs.ReferenceErrorException: ReferenceError: id is not defined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:33:66
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:31:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.detail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:15:40)
+pid: 55630
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-05-08 17:17:20.412
+
+2017-05-08 17:17:20.414 2017-05-08 17:17:20.414 nodejs.ReferenceErrorException: ReferenceError: id is not defined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:33:66
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:31:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.detail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/controllers/News.js:19:38)
+pid: 55630
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-05-08 17:17:20.414
+
+2017-05-08 17:17:22.277 2017-05-08 17:17:22.277 nodejs.ReferenceErrorException: ReferenceError: id is not defined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:33:66
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:31:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.detail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:15:40)
+pid: 55630
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-05-08 17:17:22.277
+
+2017-05-08 17:17:22.278 2017-05-08 17:17:22.278 nodejs.ReferenceErrorException: ReferenceError: id is not defined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:33:66
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:31:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.detail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/controllers/News.js:19:38)
+pid: 55630
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-05-08 17:17:22.278
+
+2017-05-08 17:17:28.379 2017-05-08 17:17:28.368 nodejs.ReferenceErrorException: ReferenceError: id is not defined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:33:66
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:31:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.detail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:15:40)
+pid: 55632
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-05-08 17:17:28.368
+
+2017-05-08 17:17:28.390 2017-05-08 17:17:28.383 nodejs.ReferenceErrorException: ReferenceError: id is not defined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:33:66
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:31:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.detail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/controllers/News.js:19:38)
+pid: 55632
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-05-08 17:17:28.383
+
+2017-05-08 17:20:55.450 server error TypeError: Cannot read property 'id' of undefined
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:14:17)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:41:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:41:437
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:41:99
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:237:21
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:45:18)
+
+2017-05-08 17:33:54.520 server error ReferenceError: opt is not defined
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:11:58)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:41:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:41:437
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:41:99
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:224:21
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:45:18)
+
+2017-05-08 17:35:21.924 server error ReferenceError: opt is not defined
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:11:58)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:41:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:41:437
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:41:99
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:224:21
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:45:18)
+
+2017-05-08 17:35:24.992 server error ReferenceError: opt is not defined
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:11:58)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:41:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:41:437
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:41:99
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:224:21
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:45:18)
+
+2017-05-08 17:35:38.526 server error ReferenceError: id is not defined
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:29:5)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.detail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:11:40)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+
+2017-05-08 17:47:19.558 server error TypeError: Cannot read property 'data' of null
+    at Header.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/header/index.jsx:18:22)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+
+2017-05-08 17:47:19.830 server error TypeError: Cannot read property 'data' of null
+    at Header.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/header/index.jsx:18:22)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+
+2017-05-08 17:47:23.240 server error TypeError: Cannot read property 'data' of null
+    at Header.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/header/index.jsx:18:22)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+
+2017-05-08 18:20:59.883 server error Error: Given action "FORECAST", reducer "forecast" returned undefined. To ignore an action, you must explicitly return the previous state.
+    at combination (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/combineReducers.js:135:15)
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/createStore.js:179:22)
+    at Object.dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux-thunk/lib/index.js:14:16)
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:28:11)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:66:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+    at getComponentsForRoute (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:11:5)
+
+2017-05-08 18:21:18.122 server error ReferenceError: WeatherModel is not defined
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:15:29)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:41:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:41:361
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+
+2017-05-08 18:23:31.683 server error TypeError: Cannot read property 'id' of undefined
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:11:17)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:41:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:41:437
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:41:99
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:231:21
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:45:18)
+
+2017-05-08 18:33:52.739 server error { TypeError: Cannot read property 'img' of undefined
+    at NewsInfo.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/newsInfo/index.jsx:22:13)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:371:34)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21) headerSent: true }
+
+2017-05-08 18:33:52.839 server error TypeError: Cannot read property 'img' of undefined
+    at NewsInfo.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/newsInfo/index.jsx:22:13)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:371:34)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+
+2017-05-08 18:34:33.021 server error TypeError: Cannot read property 'img' of undefined
+    at NewsInfo.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/newsInfo/index.jsx:22:13)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:371:34)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+
+2017-05-08 18:34:56.712 server error TypeError: Cannot read property 'img' of undefined
+    at NewsInfo.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/newsInfo/index.jsx:22:13)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:371:34)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+
+2017-05-08 18:34:58.902 server error TypeError: Cannot read property 'img' of undefined
+    at NewsInfo.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/newsInfo/index.jsx:22:13)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:371:34)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+
+2017-05-08 18:35:46.512 server error TypeError: Cannot read property 'img' of undefined
+    at NewsInfo.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/newsInfo/index.jsx:22:13)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:371:34)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+
+2017-05-08 18:36:07.426 server error TypeError: Cannot read property 'img' of undefined
+    at NewsInfo.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/newsInfo/index.jsx:22:13)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:371:34)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+
+2017-05-08 18:36:41.627 server error TypeError: Cannot read property 'img' of undefined
+    at NewsInfo.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/newsInfo/index.jsx:22:13)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:371:34)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+
+2017-05-08 18:36:44.064 server error TypeError: Cannot read property 'img' of undefined
+    at NewsInfo.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/newsInfo/index.jsx:22:13)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:371:34)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+
+2017-05-08 18:37:12.237 server error TypeError: Cannot read property 'img' of undefined
+    at NewsInfo.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/newsInfo/index.jsx:22:13)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:371:34)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+
+2017-05-08 18:37:28.820 server error TypeError: Cannot read property 'img' of undefined
+    at NewsInfo.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/newsInfo/index.jsx:22:13)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:371:34)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+
+2017-05-08 18:37:54.854 server error TypeError: Cannot read property 'img' of undefined
+    at NewsInfo.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/newsInfo/index.jsx:22:13)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:371:34)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+
+2017-05-08 18:38:38.990 server error TypeError: Cannot read property 'img' of undefined
+    at NewsInfo.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/newsInfo/index.jsx:22:13)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:371:34)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+
+2017-05-08 18:39:10.675 server error TypeError: Cannot read property 'img' of undefined
+    at NewsInfo.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/newsInfo/index.jsx:22:13)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:371:34)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+
+2017-05-08 18:39:20.747 server error TypeError: Cannot read property 'img' of undefined
+    at NewsInfo.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/newsInfo/index.jsx:22:13)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:371:34)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+
+2017-05-08 18:39:34.800 server error TypeError: Cannot read property 'img' of undefined
+    at NewsInfo.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/newsInfo/index.jsx:22:13)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:371:34)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+
+2017-05-08 18:40:20.889 server error TypeError: Cannot read property 'img' of undefined
+    at NewsInfo.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/newsInfo/index.jsx:22:13)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:371:34)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+
+2017-05-08 18:40:45.696 server error ReferenceError: id is not defined
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:14:23)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:41:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:41:437
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:41:99
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:258:21
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:45:18)
+

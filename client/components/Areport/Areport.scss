@@ -1,0 +1,10 @@
+@import "./../../scss/_base.scss";
+
+.box {
+	position: relative;
+    width: uc(375);
+
+    background: #eff2f9;
+    @extend %clearfix;
+}
+

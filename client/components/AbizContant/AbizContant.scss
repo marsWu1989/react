@@ -1,0 +1,75 @@
+@import "./../../scss/_base.scss";
+
+.AbizContant {
+    padding: uc(30) 0;
+
+    background: url(./bg_contact.jpg) no-repeat top center;
+    background-size: 100% auto;
+    background-color: #2f3440; 
+}
+.title {
+    display: block;
+    width: uc(138);
+    height: uc(80);
+    margin: uc(20)  auto;
+
+    background: url(./t_title.png) no-repeat;
+    background-size: 100%;
+}
+.item {
+    display: block;
+    margin: uc(10) uc(15);
+    padding: uc(10);
+
+    border-top-right-radius: uc(5);
+    border-top-left-radius: uc(5);
+    border-bottom: 2px solid #5aacf3;
+    background: rgba(255, 255, 255, .1);
+    @extend %clearfix;
+}
+.item p {
+    float: left;
+    height: uc(16);
+    margin: uc(5) uc(10) uc(5) 0;
+    padding-left: uc(25);
+
+    line-height: uc(16);
+    font-size: 12px;
+    color: #b8bcc6;
+}
+.way {
+    margin-bottom: uc(10);
+
+    font-size: 16px;
+    color: rgba(255, 255, 255, .8);
+}
+.name {
+    background: url(./i_name.png) no-repeat left center;
+    background-size: uc(14) uc(15);
+}
+.qq {
+    background: url(./i_qq.png) no-repeat left center;
+    background-size: uc(14) uc(15);
+}
+.phone {
+    background: url(./i_phone.png) no-repeat left center;
+    background-size: uc(11) uc(15);
+}
+.mail {
+    width: 100%;
+    
+    background: url(./i_mail.png) no-repeat left center;
+    background-size: uc(14) uc(11);
+}
+[data-dpr="2"] .item p {
+    font-size: 24px;
+}
+[data-dpr="2"] .way {
+    font-size: 32px;
+}
+[data-dpr="3"] .item p {
+    font-size: 36px;
+}
+[data-dpr="3"] .way {
+    font-size: 48px;
+}

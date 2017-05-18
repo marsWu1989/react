@@ -1,0 +1,84 @@
+@import "./../../scss/_base.scss";
+
+.AjoinJob {
+    padding: uc(10) 0;
+
+    background: url(./bg_job.jpg) no-repeat top center;
+    background-size: 100% auto;
+    background-color: #24242d;
+}
+.title {
+    width: uc(161);
+    height: uc(81);
+    margin: uc(20) auto;
+
+    background: url(./t_title.png) no-repeat;
+    background-size: 100%;
+}
+.list ul {
+    @extend %clearfix;
+}
+.list li {
+    float: left;
+    width: uc(168);
+    height: uc(237);
+    margin: 0 0 uc(13) uc(13);
+    text-align: center;
+    border-radius: 5px;
+    background: rgba(255, 255, 255, .1);
+    h3 {
+        margin: uc(30) 0 0 0;
+        color: #fff;
+        font-size: 15px;
+        font-weight: 100;
+    }
+    i {
+        display: block;
+        position: relative;
+        width: uc(70);
+        height: uc(70);
+        margin: uc(20) auto;
+        padding: uc(10);
+
+        border-radius: 50%;
+        border: 3px solid #4b4c52;
+
+        text-align: center;
+        img {
+            width: 100%;
+            margin-top: 15%;
+            opacity: .8;
+        }
+    }
+    a {
+        display: block;
+        width: uc(130);
+        height: uc(35);
+        margin: uc(0) auto 0 auto;
+        border-radius: uc(2);
+        line-height: uc(35);
+        font-size: 13px;
+        color: #fff;
+        text-decoration: none;
+        background: #35adf9;
+    }
+}
+
+[data-dpr="2"] .list li {
+    h3 {
+        font-size: 30px;
+    }
+    a {
+        font-size: 26px;
+    }
+}
+
+[data-dpr="3"] .list li {
+    h3 {
+        font-size: 45px;
+    }
+    a {
+        font-size: 39px;
+    }
+}
+

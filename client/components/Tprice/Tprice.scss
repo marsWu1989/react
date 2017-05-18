@@ -1,0 +1,153 @@
+@import "./../../scss/_base.scss";
+
+.Tprice {
+}
+.title {
+    padding-top: uc(40);
+    
+    background: #f6f6f6;
+
+    color: #000;
+    font-size: 18px;
+    text-align: center;
+}
+.tabHead {
+    padding: uc(20) 0 0 0;
+    background: #f6f6f6;
+    ul {
+        margin: 0 uc(20);
+        @extend %clearfix;
+    }
+}
+.tab {
+    float: left;
+    margin: 0 uc(12);
+    padding: uc(5);
+
+    color: #000;
+    font-size: 14px;
+    opacity: .5;
+}
+.tabCur {
+    @extend .tab;
+    position: relative;
+
+    color: #2381e9;
+    opacity: 1;
+}
+.tabCur:after {
+    display: block;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 2px;
+
+    background: #2381e9;
+    content: '';
+}
+.tabContent {
+    margin: uc(20) uc(42);
+    line-height: 1.5;
+}
+.tabTitle {
+    margin: 0 0 uc(10) 0;
+
+    color: #000;
+    font-size: 15px;
+}
+.tabDesc {
+    color: #000;
+    font-size: 12px;
+    opacity: .6;
+}
+.price {
+    font-size: 12px;
+    b {
+        font-size: 18px;
+    }
+}
+.btu {
+    display: inline-block;
+    margin: uc(20) 0 0 0;
+    padding: uc(2) uc(15);
+    border-radius: uc(5);
+    background: #2381e9;
+    color: #fff;
+    font-size: 14px;
+    text-align: center;
+    text-decoration: none;
+}
+.text {
+    color: #000;
+    font-size: 12px;
+}
+.grey {
+    @extend .text;
+    opacity: .4;
+}
+.through {
+    @extend .grey;
+    text-decoration: line-through;
+}
+.line {
+    display: block;
+    margin-top: uc(20);
+    padding: 0 0 uc(20) 0;
+    border-top: 1px dashed rgba(0, 0, 0, .1);
+}
+.hide {
+    display: none;
+}
+.show {
+    display: block;
+}
+[data-dpr="2"] .title {
+    font-size: 36px;
+}
+[data-dpr="2"] .tab {
+    font-size: 28px;
+}
+[data-dpr="2"] .tabTitle {
+    font-size: 30px;
+}
+[data-dpr="2"] .tabDesc {
+    font-size: 24px;
+}
+[data-dpr="2"] .price {
+    font-size: 24px;
+    b {
+        font-size: 36px;
+    }
+}
+[data-dpr="2"] .btu {
+    font-size: 28px;
+}
+[data-dpr="2"] .text {
+    font-size: 24px;
+}
+
+[data-dpr="3"] .title {
+    font-size: 54px;
+}
+[data-dpr="3"] .tab {
+    font-size: 42px;
+}
+[data-dpr="3"] .tabTitle {
+    font-size: 45px;
+}
+[data-dpr="3"] .tabDesc {
+    font-size: 36px;
+}
+[data-dpr="3"] .price {
+    font-size: 36px;
+    b {
+        font-size: 54px;
+    }
+}
+[data-dpr="3"] .btu {
+    font-size: 42px;
+}
+[data-dpr="3"] .text {
+    font-size: 36px;
+}

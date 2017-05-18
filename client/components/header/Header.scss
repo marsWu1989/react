@@ -1,0 +1,246 @@
+@import "./../../scss/_base.scss";
+
+.head {
+    width: 100%;
+    
+    color: #fff;
+    background: #262a32;
+
+    @extend %clearfix;
+}
+.logo {
+    float: left;
+    width: uc(90);
+    height: uc(23);
+    margin: uc(10) 0 0 uc(10);
+
+    background: url(./i_logo.png) no-repeat;
+    background-size: 100%;
+}
+.weather {
+    float: right;
+    height: uc(44);
+    padding:  0 uc(10) 0 uc(25);
+
+    background: url(./i_location.png) no-repeat center left;
+    background-size: uc(15) uc(18);
+    b {
+        display: inline-block;
+        margin: uc(13) uc(10) 0 0;
+        padding: 0 uc(10) 0 0;
+
+        border-right: 1px solid rgba(255, 255, 255, .3);
+
+        font-size: 14px;
+    }
+    span {
+        display: inline-block;
+
+        font-size: 14px;
+    }
+    i {
+        display: inline-block;
+        float: right;
+        width: uc(24);
+        height: uc(24);
+        margin: uc(10) 0 0 uc(10);
+        img {
+            width: 100%;
+            height: 100%;
+        }
+    }
+}
+.weather span:after {
+    position: absolute;
+    right: uc(35);
+    font-size: 12px;
+    content: "°";
+}
+.hide {
+    display: none;
+    width: 100%;
+
+    position: absolute;
+    top: uc(44);
+
+    background: rgba(0, 0, 0, .7);
+    z-index: 2;
+}
+.title {
+    width: 100%;
+    height: uc(44);
+
+    line-height: uc(44);
+
+    background: #000;
+    font-size: 12px;
+    @extend %clearfix;
+}
+.alert {
+    float: left;
+    i {
+        display: block;
+        
+        margin: uc(10) uc(10) 0 uc(10);
+        padding: uc(3);
+        
+        border-radius: 50%;
+        line-height: 1;
+
+        float: left;
+        img {
+            width: uc(14);
+            height: uc(14);
+        }
+    }
+    b {
+        margin: 0 uc(10);
+    }
+    span {
+        color: #979aa2;
+    }
+}
+.alertContent {
+    display: inline-block;
+
+    float: left;
+    height: uc(44);
+    b {
+        display: inline-block;
+        width: uc(120);
+        height: uc(44);
+        overflow: hidden;
+    }
+}
+.more {
+    float: right;
+    margin-right: uc(10);
+    padding-right: uc(15);
+    
+    background: url(./i_add.png) no-repeat center right;
+    background-size: uc(9) uc(9);
+    color: #979aa2;
+    text-decoration: none;
+}
+.items {
+    position: relative;
+    width: 100%;
+    z-index: 2;
+
+    @extend %clearfix;
+}
+.item {
+    float: left;
+    width: 19.6%;
+    margin: uc(15) 0;
+    padding: uc(5) 0;
+    border-right: 1px solid rgba(255, 255, 255, .2);
+    
+    line-height: 1;
+    text-align: center;
+    span {
+        display: block;
+        padding: uc(5) 0;
+    }
+    .week,
+    .wea,
+    .temp {
+        font-size: 14px;
+    }
+    .wind {
+        font-size: 13px;
+    }
+    .date,
+    b {
+        font-size: 8px;
+    }
+    .icon {
+        display: block;
+        padding: uc(5) 0;
+        img {
+            width: uc(35);
+        }
+    }
+    b {
+        display: inline-block;
+        width: uc(34);
+        padding: uc(4) uc(5);
+        margin-top: uc(5);
+
+        border-radius: uc(10);
+    }
+}
+.item .temp:after {
+    position: absolute;
+    font-size: 12px;
+    content: "°";
+}
+.show {
+    @extend .hide;
+    display: block
+}
+.bg {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+@for $i from 1 through 6 {
+    .level_#{$i} {
+        @extend %warn_#{$i};
+    }
+}
+
+
+[data-dpr="2"] .weather {
+    b {
+        font-size: 28px;
+    }
+    span {
+        font-size: 28px;
+    }
+}
+[data-dpr="2"] .item {
+    .week,
+    .wea,
+    .temp {
+        font-size: 28px;
+    }
+    .wind {
+        font-size: 26px;
+    }
+    .date,
+    b {
+        font-size: 16px;
+    }
+}
+[data-dpr="2"] .title {
+    font-size: 24px;
+}
+[data-dpr="3"] .weather {
+    b {
+        font-size: 42px;
+    }
+    span {
+        font-size: 42px;
+    }
+}
+[data-dpr="3"] .item {
+    .week,
+    .wea,
+    .temp {
+        font-size: 42px;
+    }
+    .wind {
+        font-size: 39px;
+    }
+    .date,
+    b {
+        font-size: 24px;
+    }
+}
+[data-dpr="3"] .title {
+    font-size: 36px;
+}

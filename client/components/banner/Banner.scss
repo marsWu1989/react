@@ -1,0 +1,11 @@
+@import "./../../scss/_base.scss";
+
+.banner {
+	display: block;
+	width: 100%;
+	height: uc(211);
+    img {
+        width: 100%;
+        height: 100%;
+    }
+}

@@ -1,0 +1,862 @@
+2017-04-19 13:59:44.460 server error TypeError: (0 , _news2.default) is not a function
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:19:28)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:61:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+    at getComponentsForRoute (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:11:5)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:35:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:84:5
+    at Array.forEach (native)
+
+2017-04-19 13:59:44.891 server error TypeError: (0 , _news2.default) is not a function
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:19:28)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:61:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+    at getComponentsForRoute (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:11:5)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:35:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:84:5
+    at Array.forEach (native)
+
+2017-04-19 13:59:47.797 server error TypeError: (0 , _news2.default) is not a function
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:19:28)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:61:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+    at getComponentsForRoute (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:11:5)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:35:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:84:5
+    at Array.forEach (native)
+
+2017-04-19 14:00:48.754 server error TypeError: (0 , _news2.default) is not a function
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:19:28)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:61:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+    at getComponentsForRoute (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:11:5)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:35:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:84:5
+    at Array.forEach (native)
+
+2017-04-19 14:01:41.406 server error TypeError: (0 , _news2.default) is not a function
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:19:28)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:61:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+    at getComponentsForRoute (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:11:5)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:35:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:84:5
+    at Array.forEach (native)
+
+2017-04-19 14:02:48.977 server error TypeError: (0 , _news2.default) is not a function
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:16:28)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:61:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+    at getComponentsForRoute (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:11:5)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:35:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:84:5
+    at Array.forEach (native)
+
+2017-04-19 14:02:55.886 server error TypeError: (0 , _news2.default) is not a function
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:16:28)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:61:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+    at getComponentsForRoute (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:11:5)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:35:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:84:5
+    at Array.forEach (native)
+
+2017-04-19 14:03:16.567 server error TypeError: (0 , _news2.default) is not a function
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:16:28)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:61:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+    at getComponentsForRoute (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:11:5)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:35:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:84:5
+    at Array.forEach (native)
+
+2017-04-19 14:03:19.967 server error TypeError: (0 , _news2.default) is not a function
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:16:28)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:61:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+    at getComponentsForRoute (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:11:5)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:35:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:84:5
+    at Array.forEach (native)
+
+2017-04-19 14:04:10.480 server error TypeError: (0 , _news2.default) is not a function
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:16:28)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:61:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+    at getComponentsForRoute (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:11:5)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:35:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:84:5
+    at Array.forEach (native)
+
+2017-04-19 14:04:10.831 server error TypeError: (0 , _news2.default) is not a function
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:16:28)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:61:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+    at getComponentsForRoute (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:11:5)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:35:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:84:5
+    at Array.forEach (native)
+
+2017-04-19 14:04:12.310 server error TypeError: (0 , _news2.default) is not a function
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:16:28)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:61:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+    at getComponentsForRoute (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:11:5)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:35:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:84:5
+    at Array.forEach (native)
+
+2017-04-19 16:21:10.900 server error TypeError: Cannot read property 'rows' of undefined
+    at NewsDetail (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/newsDetail/index.jsx:13:17)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:306:16
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._constructComponentWithoutOwner (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:305:14)
+    at ReactCompositeComponentWrapper._constructComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:280:21)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:188:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:371:34)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+
+2017-04-19 16:39:10.687 2017-04-19 16:39:10.676 nodejs.TypeErrorException: TypeError: Cannot read property 'id' of undefined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:31:64
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:30:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.newsDetail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:9:40)
+pid: 7643
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-04-19 16:39:10.676
+
+2017-04-19 16:39:10.751 server error Error: next() called multiple times
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:38:45)
+    at next (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:45:18)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:11:11)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:17:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:17:361
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+
+2017-04-19 16:39:28.364 2017-04-19 16:39:28.363 nodejs.TypeErrorException: TypeError: Cannot read property 'id' of undefined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:31:64
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:30:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.newsDetail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:9:40)
+pid: 7643
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-04-19 16:39:28.363
+
+2017-04-19 16:39:28.382 server error Error: next() called multiple times
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:38:45)
+    at next (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:45:18)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:11:11)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:17:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:17:361
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+
+2017-04-19 16:40:50.362 2017-04-19 16:40:50.360 nodejs.TypeErrorException: TypeError: Cannot read property 'id' of undefined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:31:64
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:30:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.newsDetail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:9:40)
+pid: 7643
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-04-19 16:40:50.360
+
+2017-04-19 16:40:50.380 server error Error: next() called multiple times
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:38:45)
+    at next (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:45:18)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:11:11)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:17:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:17:361
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+
+2017-04-19 16:40:58.134 2017-04-19 16:40:58.125 nodejs.TypeErrorException: TypeError: Cannot read property 'id' of undefined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:31:64
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:30:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.newsDetail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:9:40)
+pid: 7658
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-04-19 16:40:58.125
+
+2017-04-19 16:40:58.204 server error Error: next() called multiple times
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:38:45)
+    at next (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:45:18)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:11:11)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:17:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:17:361
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+
+2017-04-19 16:41:41.232 2017-04-19 16:41:41.222 nodejs.TypeErrorException: TypeError: Cannot read property 'id' of undefined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:32:64
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:31:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.newsDetail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:9:40)
+pid: 7674
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-04-19 16:41:41.222
+
+2017-04-19 16:41:41.317 server error Error: next() called multiple times
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:38:45)
+    at next (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:45:18)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:11:11)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:17:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:17:361
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+
+2017-04-19 16:42:39.310 2017-04-19 16:42:39.300 nodejs.TypeErrorException: TypeError: Cannot read property 'id' of undefined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:31:64
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:30:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.newsDetail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:9:40)
+pid: 7694
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-04-19 16:42:39.300
+
+2017-04-19 16:42:39.379 server error Error: next() called multiple times
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:38:45)
+    at next (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:45:18)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:11:11)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:17:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:17:361
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+
+2017-04-19 16:43:08.571 2017-04-19 16:43:08.561 nodejs.TypeErrorException: TypeError: Cannot read property 'id' of undefined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:31:64
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:30:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.newsDetail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:9:40)
+pid: 7709
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-04-19 16:43:08.561
+
+2017-04-19 16:43:08.641 server error Error: next() called multiple times
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:38:45)
+    at next (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:45:18)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:11:11)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:17:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:17:361
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+
+2017-04-19 16:43:26.299 2017-04-19 16:43:26.298 nodejs.TypeErrorException: TypeError: Cannot read property 'id' of undefined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:31:64
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:30:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.newsDetail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:9:40)
+pid: 7709
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-04-19 16:43:26.298
+
+2017-04-19 16:43:26.317 server error Error: next() called multiple times
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:38:45)
+    at next (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:45:18)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:11:11)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:17:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:17:361
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+
+2017-04-19 16:45:14.181 2017-04-19 16:45:14.179 nodejs.TypeErrorException: TypeError: Cannot read property 'id' of undefined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:31:64
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:30:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.newsDetail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:9:40)
+pid: 7709
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-04-19 16:45:14.179
+
+2017-04-19 16:45:14.203 server error Error: next() called multiple times
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:38:45)
+    at next (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:45:18)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:11:11)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:17:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:17:361
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+
+2017-04-19 16:46:04.331 2017-04-19 16:46:04.320 nodejs.TypeErrorException: TypeError: Cannot read property 'id' of undefined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:31:64
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:30:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.detail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:9:40)
+pid: 7748
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-04-19 16:46:04.320
+
+2017-04-19 16:46:04.393 server error Error: next() called multiple times
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:38:45)
+    at next (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:45:18)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:11:11)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:17:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:17:361
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+
+2017-04-19 16:48:12.950 server error TypeError: (0 , _news2.default) is not a function
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:17:28)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:61:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+    at getComponentsForRoute (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:11:5)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:35:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:84:5
+    at Array.forEach (native)
+
+2017-04-19 16:48:13.843 server error TypeError: (0 , _news2.default) is not a function
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:17:28)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:61:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+    at getComponentsForRoute (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:11:5)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:35:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:84:5
+    at Array.forEach (native)
+
+2017-04-19 16:56:04.674 2017-04-19 16:56:04.667 nodejs.TypeErrorException: TypeError: Cannot read property 'id' of undefined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:31:64
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:30:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.detail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:9:40)
+pid: 7842
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-04-19 16:56:04.667
+
+2017-04-19 16:56:04.729 server error Error: next() called multiple times
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:38:45)
+    at next (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:45:18)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:11:11)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:17:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:17:361
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+
+2017-04-19 17:01:09.122 2017-04-19 17:01:09.114 nodejs.TypeErrorException: TypeError: Cannot read property 'id' of undefined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:31:64
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:30:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.detail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:9:40)
+pid: 7867
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-04-19 17:01:09.114
+
+2017-04-19 17:01:09.124 server error TypeError: next is not a function
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:47:11)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:402
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+
+2017-04-19 17:01:11.377 2017-04-19 17:01:11.371 nodejs.TypeErrorException: TypeError: Cannot read property 'id' of undefined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:31:64
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:30:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.detail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:9:40)
+pid: 7867
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-04-19 17:01:11.371
+
+2017-04-19 17:01:11.378 server error TypeError: next is not a function
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:47:11)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:402
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+
+2017-04-19 17:01:26.110 2017-04-19 17:01:26.100 nodejs.TypeErrorException: TypeError: Cannot read property 'id' of undefined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:31:64
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:30:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.detail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:9:40)
+pid: 7881
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-04-19 17:01:26.100
+
+2017-04-19 17:01:26.111 server error TypeError: next is not a function
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:47:11)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:402
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+
+2017-04-19 17:02:10.855 2017-04-19 17:02:10.847 nodejs.TypeErrorException: TypeError: Cannot read property 'id' of undefined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:31:64
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:30:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.detail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:8:40)
+pid: 7924
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-04-19 17:02:10.847
+
+2017-04-19 17:02:10.908 server error Error: next() called multiple times
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:38:45)
+    at next (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:45:18)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:10:11)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:17:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:17:361
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+
+2017-04-19 17:02:12.745 2017-04-19 17:02:12.736 nodejs.TypeErrorException: TypeError: Cannot read property 'id' of undefined
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:31:64
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:30:28)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.detail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:8:40)
+pid: 7924
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-04-19 17:02:12.736
+
+2017-04-19 17:02:12.762 server error Error: next() called multiple times
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:38:45)
+    at next (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:45:18)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:10:11)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:17:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:17:361
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+
+2017-04-19 17:03:19.135 server error TypeError: Cannot read property 'id' of undefined
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:29:17)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.detail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:9:40)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+
+2017-04-19 17:03:23.988 server error TypeError: Cannot read property 'id' of undefined
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:29:17)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.detail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:9:40)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+
+2017-04-19 17:21:22.874 server error TypeError: Cannot read property 'id' of undefined
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:29:17)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.detail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:9:40)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+
+2017-04-19 17:22:22.351 server error TypeError: Cannot read property 'id' of undefined
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:29:17)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.detail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:9:40)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+
+2017-04-19 17:22:24.728 server error TypeError: Cannot read property 'id' of undefined
+    at _callee2$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:29:17)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:9:99)
+    at Object.detail (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/NewsModel.js:28:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:9:40)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+
+2017-04-19 17:47:11.418 server error TypeError: (0 , _news2.default) is not a function
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:17:28)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:61:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+    at getComponentsForRoute (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:11:5)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:35:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:84:5
+    at Array.forEach (native)
+
+2017-04-19 17:47:12.193 server error TypeError: (0 , _news2.default) is not a function
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:17:28)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:61:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+    at getComponentsForRoute (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:11:5)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:35:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:84:5
+    at Array.forEach (native)
+
+2017-04-19 17:49:37.564 server error TypeError: Cannot read property 'map' of undefined
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/client/reducers/news.jsx:17:13)
+    at combination (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/combineReducers.js:132:29)
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/createStore.js:179:22)
+    at Object.dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux-thunk/lib/index.js:14:16)
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:19:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:61:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+
+2017-04-19 17:51:11.783 server error TypeError: Cannot read property 'length' of undefined
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/client/reducers/news.jsx:17:17)
+    at combination (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/combineReducers.js:132:29)
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/createStore.js:179:22)
+    at Object.dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux-thunk/lib/index.js:14:16)
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:19:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:61:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+
+2017-04-19 17:53:11.283 server error TypeError: Cannot read property 'length' of undefined
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/client/reducers/news.jsx:17:17)
+    at combination (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/combineReducers.js:132:29)
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/createStore.js:179:22)
+    at Object.dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux-thunk/lib/index.js:14:16)
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:19:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:61:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+
+2017-04-19 17:53:59.744 server error TypeError: Cannot read property 'length' of undefined
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/client/reducers/news.jsx:18:17)
+    at combination (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/combineReducers.js:132:29)
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/createStore.js:179:22)
+    at Object.dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux-thunk/lib/index.js:14:16)
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:19:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:61:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+
+2017-04-19 17:55:28.249 server error TypeError: Cannot read property 'rows' of undefined
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/client/reducers/news.jsx:24:24)
+    at combination (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/combineReducers.js:132:29)
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/createStore.js:179:22)
+    at Object.dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux-thunk/lib/index.js:14:16)
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:19:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:61:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+
+2017-04-19 17:55:55.721 server error TypeError: Cannot read property 'rows' of undefined
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/client/reducers/news.jsx:24:24)
+    at combination (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/combineReducers.js:132:29)
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/createStore.js:179:22)
+    at Object.dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux-thunk/lib/index.js:14:16)
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:19:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:61:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+
+2017-04-19 17:56:20.894 server error TypeError: Cannot read property 'rows' of undefined
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/client/reducers/news.jsx:24:24)
+    at combination (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/combineReducers.js:132:29)
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/createStore.js:179:22)
+    at Object.dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux-thunk/lib/index.js:14:16)
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:19:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:61:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+
+2017-04-19 17:56:56.847 server error TypeError: Cannot read property 'rows' of undefined
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/client/reducers/news.jsx:24:24)
+    at combination (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/combineReducers.js:132:29)
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/createStore.js:179:22)
+    at Object.dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux-thunk/lib/index.js:14:16)
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:19:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:61:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+
+2017-04-19 17:57:10.620 server error TypeError: Cannot read property 'rows' of undefined
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/client/reducers/news.jsx:24:24)
+    at combination (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/combineReducers.js:132:29)
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/createStore.js:179:22)
+    at Object.dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux-thunk/lib/index.js:14:16)
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:19:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:61:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+
+2017-04-19 17:57:44.087 server error TypeError: Cannot read property 'rows' of undefined
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/client/reducers/news.jsx:24:24)
+    at combination (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/combineReducers.js:132:29)
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/createStore.js:179:22)
+    at Object.dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux-thunk/lib/index.js:14:16)
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:19:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:61:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+
+2017-04-19 17:58:19.460 server error TypeError: Cannot read property 'rows' of undefined
+    at News (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/news/index.jsx:15:17)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:306:16
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._constructComponentWithoutOwner (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:305:14)
+    at ReactCompositeComponentWrapper._constructComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:280:21)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:188:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:371:34)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+
+2017-04-19 17:58:53.161 server error TypeError: Cannot read property 'rows' of undefined
+    at News (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/news/index.jsx:15:17)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:306:16
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._constructComponentWithoutOwner (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:305:14)
+    at ReactCompositeComponentWrapper._constructComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:280:21)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:188:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:371:34)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+
+2017-04-19 17:59:37.920 server error TypeError: Cannot read property 'page_no' of undefined
+    at News (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/news/index.jsx:22:29)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:306:16
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._constructComponentWithoutOwner (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:305:14)
+    at ReactCompositeComponentWrapper._constructComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:280:21)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:188:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:371:34)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+

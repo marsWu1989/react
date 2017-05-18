@@ -1,0 +1,112 @@
+@import "./../../scss/_base.scss";
+
+.Dphone {
+    display: block;
+    width: 100%;
+    padding: uc(10) 0;
+    
+    color: #fff;
+    background: #35aef9;
+}
+.title {
+    width: uc(90);
+    margin: uc(15) auto;
+    padding-right: uc(14);
+
+    font-size: 24px;
+
+    background: url(./i_iphone.png) no-repeat center right;
+    background-size: uc(14) uc(22);
+}
+.items {
+    @extend %clearfix;
+}
+.item {
+    float: left;
+    width: uc(160);
+    margin: 0 0 uc(30) uc(20);
+    line-height: 1.1;
+    p {
+        margin: 0 0 uc(15) 0;
+    }
+    b {
+        display: block;
+        padding: uc(3) 0 0 0;
+        
+        font-size: 14px;
+    }
+    span {
+        display: block;
+        margin: uc(3) 0 0 0;
+
+        color: #bde5ff;
+        font-size: 12px;
+    }
+}
+.iphone {
+    padding: 0 0 0 uc(35);
+
+    background: url(./i_apple_white.png) no-repeat center left;
+    background-size: uc(30) uc(34);
+}
+.android {
+    padding: 0 0 0 uc(35);
+
+    background: url(./i_and_white.png) no-repeat center left;
+    background-size: uc(31) uc(34);
+}
+.btuBlue {
+    display: block;
+    width: uc(150);
+    padding: uc(12) 0;
+    border-radius: uc(3);
+    border: 1px solid #2e64ae;
+
+    font-size: 12px;
+    background: #2e64ae;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+}
+.btuNoBg {
+    @extend .btuBlue;
+    background: none;
+    color: #2f64ae;
+}
+.pic {
+    display: block;
+    width: uc(310);
+    height: uc(203);
+    margin: uc(20) auto;
+
+    background: url(./p_phone.png) no-repeat center;
+    background-size: 100%;
+}
+[data-dpr="2"] .item {
+    b {
+        font-size: 28px;
+    }
+    span {
+        font-size: 24px;
+    }
+}
+[data-dpr="2"] .title {
+    font-size: 48px;
+}
+[data-dpr="2"] .btuBlue {
+    font-size: 24px;
+}
+[data-dpr="3"] .item {
+    b {
+        font-size: 42px;
+    }
+    span {
+        font-size: 36px;
+    }
+}
+[data-dpr="3"] .title {
+    font-size: 72px;
+}
+[data-dpr="3"] .btuBlue {
+    font-size: 36px;
+}

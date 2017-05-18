@@ -1,0 +1,288 @@
+2017-05-02 09:44:57.270 server error TypeError: Cannot read property 'desc' of undefined
+    at Header.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/header/index.jsx:34:24)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+
+2017-05-02 09:45:11.847 server error TypeError: Cannot read property 'desc' of undefined
+    at Header.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/header/index.jsx:34:24)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+
+2017-05-02 09:45:32.204 server error TypeError: Cannot read property 'desc' of undefined
+    at Header.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/header/index.jsx:34:24)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+
+2017-05-02 09:45:55.485 server error TypeError: Cannot read property 'desc' of undefined
+    at Header.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/header/index.jsx:34:24)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+
+2017-05-02 09:46:45.147 server error TypeError: Cannot read property 'desc' of undefined
+    at Header.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/header/index.jsx:34:24)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+
+2017-05-02 09:46:47.410 server error TypeError: Cannot read property 'desc' of undefined
+    at Header.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/header/index.jsx:34:24)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+
+2017-05-02 09:46:59.141 server error TypeError: Cannot read property 'desc' of undefined
+    at Header.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/header/index.jsx:34:24)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+
+2017-05-02 09:47:37.335 server error TypeError: Cannot read property 'desc' of undefined
+    at Header.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/header/index.jsx:34:24)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+
+2017-05-02 09:50:13.797 server error TypeError: Cannot read property 'desc' of undefined
+    at Header.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/header/index.jsx:34:24)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+
+2017-05-02 09:50:15.217 server error TypeError: Cannot read property 'desc' of undefined
+    at Header.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/header/index.jsx:34:24)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+
+2017-05-02 09:51:02.508 server error TypeError: Cannot read property 'desc' of undefined
+    at Header.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/header/index.jsx:34:24)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+
+2017-05-02 09:51:03.664 server error TypeError: Cannot read property 'desc' of undefined
+    at Header.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/header/index.jsx:34:24)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+
+2017-05-02 09:52:28.457 server error TypeError: Cannot read property 'desc' of undefined
+    at Header.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/header/index.jsx:34:24)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+
+2017-05-02 09:54:25.796 server error TypeError: Cannot read property 'desc' of undefined
+    at Header.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/header/index.jsx:34:24)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+
+2017-05-02 09:56:50.201 server error TypeError: Cannot read property 'desc' of undefined
+    at Header.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/header/index.jsx:34:24)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+
+2017-05-02 09:56:52.180 server error TypeError: Cannot read property 'desc' of undefined
+    at Header.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/header/index.jsx:34:24)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+
+2017-05-02 09:58:18.566 server error TypeError: Cannot read property 'desc' of undefined
+    at Header.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/header/index.jsx:34:24)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+
+2017-05-02 10:01:19.745 server error TypeError: Cannot read property 'desc' of undefined
+    at Header.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/header/index.jsx:34:24)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+
+2017-05-02 10:12:52.969 server error TypeError: Cannot read property 'desc' of undefined
+    at Header.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/header/index.jsx:35:28)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+
+2017-05-02 10:13:50.154 server error TypeError: Cannot read property 'desc' of undefined
+    at Header.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/header/index.jsx:36:28)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+
+2017-05-02 10:15:01.986 server error TypeError: Cannot read property 'desc' of undefined
+    at Header.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/header/index.jsx:36:28)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+
+2017-05-02 10:45:36.556 server error TypeError: Cannot read property 'length' of undefined
+    at Header.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/header/index.jsx:34:25)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+
+2017-05-02 18:27:00.287 server error TypeError: Cannot call a class as a function
+    at _classCallCheck (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-redux/lib/components/connectAdvanced.js:27:99)
+    at Object.Connect [as getComponent] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-redux/lib/components/connectAdvanced.js:123:9)
+    at getComponentsForRoute (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:17:40)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:35:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:84:5
+    at Array.forEach (native)
+    at mapAsync (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:83:9)
+    at getComponents (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:34:28)
+    at finishEnterHooks (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:93:35)
+    at runTransitionHooks (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/TransitionUtils.js:80:5)
+
+2017-05-02 18:27:42.058 server error TypeError: Cannot call a class as a function
+    at _classCallCheck (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-redux/lib/components/connectAdvanced.js:27:99)
+    at Object.Connect [as getComponent] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-redux/lib/components/connectAdvanced.js:123:9)
+    at getComponentsForRoute (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:17:40)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:35:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:84:5
+    at Array.forEach (native)
+    at mapAsync (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:83:9)
+    at getComponents (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:34:28)
+    at finishEnterHooks (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:93:35)
+    at runTransitionHooks (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/TransitionUtils.js:80:5)
+

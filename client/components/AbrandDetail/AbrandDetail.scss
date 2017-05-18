@@ -1,0 +1,100 @@
+@import "./../../scss/_base.scss";
+
+.AbrandDetail {
+    padding: uc(10);
+
+    color: #606784;
+}
+.brandList {
+    ul {
+        @extend %clearfix;
+    }
+    li {
+        float: left;
+        margin: uc(20) uc(5);
+    }
+    i {
+        display: block;
+        width: uc(60);
+        height: uc(60);
+        img {
+            width: 100%;
+        }
+    }
+}
+.title {
+    padding: uc(10);
+
+    font-size: 35px;
+}
+.time {
+    padding: 0 uc(10) uc(10) uc(10);
+    
+    font-size: 13px;
+}
+.desc {
+    padding: uc(10);
+    
+    line-height: 1.8;
+    font-size: 13px;
+}
+.activityList {
+    position: relative;
+    width: uc(365);
+    height: uc(305);
+    overflow-y: scroll;
+    ul {
+        position: absolute;
+        overflow: hidden;
+        @extend %clearfix;
+    }
+    li {
+        float: left;
+        padding: uc(20) uc(5);
+    }
+    i {
+        display: block;
+        width: uc(140);
+        height: uc(250);
+        img {
+            width: 100%;
+        }
+    }
+    span {
+        display: block;
+        margin: uc(10) 0;
+
+        font-size: 16px;
+        text-align: center;
+    }
+}
+
+[data-dpr="2"] .title {
+    font-size: 70px;
+}
+[data-dpr="2"] .time {
+    font-size: 26px;
+}
+[data-dpr="2"] .desc {
+    font-size: 26px;
+}
+[data-dpr="2"] .activityList {
+    span {
+        font-size: 32px;
+    }
+}
+
+[data-dpr="3"] .title {
+    font-size: 105px;
+}
+[data-dpr="3"] .time {
+    font-size: 39px;
+}
+[data-dpr="3"] .desc {
+    font-size: 39px;
+}
+[data-dpr="3"] .activityList {
+    span {
+        font-size: 36px;
+    }
+}

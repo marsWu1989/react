@@ -1,0 +1,197 @@
+2017-04-28 14:10:08.045 net work fail
+
+2017-04-28 14:10:43.785 net work fail
+
+2017-04-28 14:10:43.832 net work fail
+
+2017-04-28 14:20:07.826 net work fail
+
+2017-04-28 14:22:09.176 net work fail
+
+2017-04-28 14:24:12.920 net work fail
+
+2017-04-28 14:24:55.714 net work fail
+
+2017-04-28 14:26:06.109 2017-04-28 14:26:06.099 nodejs.ReferenceErrorException: ReferenceError: fetchJsonp is not defined
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/TobModel.js:7:16)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/TobModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/TobModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/TobModel.js:9:99)
+    at Object.num (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/TobModel.js:5:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:11:39)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+pid: 31099
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-04-28 14:26:06.099
+
+2017-04-28 14:26:06.133 server error TypeError: Cannot read property '0' of undefined
+    at Tob (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/tob/index.jsx:16:17)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:306:16
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._constructComponentWithoutOwner (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:305:14)
+    at ReactCompositeComponentWrapper._constructComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:280:21)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:188:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:371:34)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+
+2017-04-28 14:28:28.227 2017-04-28 14:28:28.218 nodejs.ReferenceErrorException: ReferenceError: fetchJsonp is not defined
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/TobModel.js:7:16)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/TobModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/TobModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/TobModel.js:9:99)
+    at Object.num (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/TobModel.js:5:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:11:39)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+pid: 31121
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-04-28 14:28:28.218
+
+2017-04-28 14:28:28.252 server error TypeError: Cannot read property '0' of undefined
+    at Tob (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/tob/index.jsx:16:17)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:306:16
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._constructComponentWithoutOwner (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:305:14)
+    at ReactCompositeComponentWrapper._constructComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:280:21)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:188:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:371:34)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+
+2017-04-28 14:28:35.580 2017-04-28 14:28:35.579 nodejs.ReferenceErrorException: ReferenceError: fetchJsonp is not defined
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/TobModel.js:7:16)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/TobModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/TobModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/TobModel.js:9:99)
+    at Object.num (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/TobModel.js:5:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:11:39)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+pid: 31121
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-04-28 14:28:35.579
+
+2017-04-28 14:28:35.583 server error TypeError: Cannot read property '0' of undefined
+    at Tob (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/tob/index.jsx:16:17)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:306:16
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._constructComponentWithoutOwner (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:305:14)
+    at ReactCompositeComponentWrapper._constructComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:280:21)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:188:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:371:34)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+
+2017-04-28 14:30:15.558 2017-04-28 14:30:15.549 nodejs.ReferenceErrorException: ReferenceError: fetchJsonp is not defined
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/TobModel.js:7:16)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/TobModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/TobModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/TobModel.js:9:99)
+    at Object.num (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/TobModel.js:5:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:11:39)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+pid: 31150
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-04-28 14:30:15.549
+
+2017-04-28 14:30:15.661 server error Error: next() called multiple times
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:38:45)
+    at next (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:45:18)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:13:11)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:21:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:21:361
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+
+2017-04-28 14:30:57.651 2017-04-28 14:30:57.650 nodejs.ReferenceErrorException: ReferenceError: fetchJsonp is not defined
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/TobModel.js:7:16)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/TobModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/TobModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/TobModel.js:9:99)
+    at Object.num (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/TobModel.js:5:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:11:39)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+pid: 31150
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-04-28 14:30:57.650
+
+2017-04-28 14:30:57.681 server error Error: next() called multiple times
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:38:45)
+    at next (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:45:18)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:13:11)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:21:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:21:361
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+
+2017-04-28 14:30:59.027 2017-04-28 14:30:59.026 nodejs.ReferenceErrorException: ReferenceError: fetchJsonp is not defined
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/TobModel.js:7:16)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/TobModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/TobModel.js:9:437
+    at Object.<anonymous> (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/TobModel.js:9:99)
+    at Object.num (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/TobModel.js:5:1)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:11:39)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+pid: 31150
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-04-28 14:30:59.026
+
+2017-04-28 14:30:59.048 server error Error: next() called multiple times
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:38:45)
+    at next (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:45:18)
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:13:11)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:21:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:21:361
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+
+2017-04-28 17:33:16.135 server error BadRequestError: Malicious Path
+    at resolvePath (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/resolve-path/index.js:77:11)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-send/index.js:69:12
+    at next (native)
+    at onFulfilled (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/co/index.js:65:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/co/index.js:54:5
+    at co (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/co/index.js:50:10)
+    at send (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-send/index.js:36:10)
+    at Object.serve (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-static/index.js:41:19)
+    at next (native)
+    at onFulfilled (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/co/index.js:65:19)
+

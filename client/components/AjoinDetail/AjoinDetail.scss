@@ -1,0 +1,73 @@
+@import "./../../scss/_base.scss";
+
+.AjoinDetail {
+    position: relative;
+    padding: uc(20);
+
+    color: #606784;
+}
+.title {
+    position: relative;
+    padding: uc(10) 0 uc(20) 0;
+
+    font-size: 28px;
+}
+.title:after {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+
+    width: uc(30);
+    height: uc(2);
+
+    background: #35adf9;
+    content: '';
+}
+.text {
+    line-height: 1.5;
+    h3 {
+        margin: uc(20) 0;
+
+        font-size: 14px;
+        font-weight: 500;
+    }
+}
+.button {
+    width: uc(168);
+    height: uc(45);
+    margin: uc(20) auto;
+
+    border-radius: uc(3);
+    background: #35adf9;
+    line-height: uc(45);
+    font-size: 18px;
+    text-align: center;
+    a {
+        color: #fff;
+        text-decoration: none;
+    }
+}
+
+[data-dpr="2"] .title {
+    font-size: 56px;
+}
+[data-dpr="2"] .text {
+    h3 {
+        font-size: 28px;
+    }
+}
+[data-dpr="2"] .button {
+    font-size: 36px;
+}
+
+[data-dpr="3"] .title {
+    font-size: 84px;
+}
+[data-dpr="3"] .text {
+    h3 {
+        font-size: 42px;
+    }
+}
+[data-dpr="3"] .button {
+    font-size: 54px;
+}

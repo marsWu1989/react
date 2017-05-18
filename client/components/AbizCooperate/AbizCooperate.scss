@@ -1,0 +1,30 @@
+@import "./../../scss/_base.scss";
+
+.AbizCooperate {
+    padding: uc(20) 0;
+    background: #eff2f7;
+    @extend %clearfix;
+}
+.title {
+    display: block;
+    width: uc(138);
+    height: uc(79);
+    margin: uc(20) auto;
+
+    background: url(./t_title.png) no-repeat;
+    background-size: 100%;
+}
+
+.list ul {
+    @extend %clearfix;
+}
+.img {
+    float: left;
+    width: uc(104);
+    height: uc(33);
+    margin: uc(10);
+    img {
+        width: 100%;
+        height: 100%;
+    }
+}

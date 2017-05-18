@@ -1,0 +1,133 @@
+@import "./../../scss/_base.scss";
+
+.info {
+    width: 100%;
+    height: uc(515);
+
+    color: #fff;
+
+    background: url(./bg_info.jpg) no-repeat;
+    background-size: 100%;
+}
+.title {
+    display: block;
+    width: uc(144);
+    height: uc(51);
+    margin: 0 auto;
+    padding: uc(45) 0 uc(20) 0;
+
+    background: url(./t_info.png) no-repeat center uc(45);
+    background-size: 100%;
+}
+.more {
+    width: uc(60);
+    margin: 0 auto;
+    padding-right: uc(13);
+
+    background: url(./i_more.png) no-repeat center right;
+    background-size: uc(7) uc(12);
+
+    line-height: 1;
+    text-align: center;
+    font-size: 12px;
+    color: #aaaeb7;
+    text-decoration: none;
+    a {
+        color: #aaaeb7;
+        text-decoration: none;
+    }
+}
+.list {
+    padding: uc(30) uc(25) uc(40) uc(25);
+}
+.item {
+    display: block;
+
+    padding-bottom: uc(15);
+    margin-bottom: uc(15);
+
+    border-bottom: 1px solid rgba(255, 255, 255, .1);
+}
+.pic {
+    float: left;
+    width: uc(70);
+    height: uc(83);
+    margin: 0 uc(15) 0 0;
+    overflow: hidden;
+    a {
+        display: block;
+    }
+    img {
+        width: 100%;
+        height: 100%;
+    }
+}
+.text {
+    height: uc(83);
+
+    line-height: 1.5;
+    a {
+        color: #fff;
+        font-size: 16px;
+        text-decoration: none;
+
+        display:-webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 1;
+        text-overflow: ellipsis;
+        overflow: hidden;
+    }
+    b {
+        display: block;
+
+        font-size: 12px;
+        font-weight: 100;
+        color: #989ba3;
+    }
+    span {
+        margin: uc(7) 0 0 0;
+
+        font-size: 12px;
+        color: #b8bcc6;
+        display:-webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 2;
+        text-overflow: ellipsis;
+        overflow: hidden;
+    }
+}
+.item:last-child {
+    padding-bottom: 0;
+    margin-bottom: 0;
+
+    border-bottom: 0;
+}
+
+[data-dpr="2"] .more {
+    font-size: 24px;
+}
+[data-dpr="2"] .text {
+    a {
+        font-size: 32px;
+    }
+    b {
+        font-size: 24px;
+    }
+    span {
+        font-size: 24px;
+    }
+}
+[data-dpr="3"] .more {
+    font-size: 36px;
+}
+[data-dpr="3"] .text {
+    a {
+        font-size: 48px;
+    }
+    b {
+        font-size: 36px;
+    }
+    span {
+        font-size: 36px;
+    }
+}

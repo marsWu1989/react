@@ -1,0 +1,218 @@
+2017-05-11 17:51:23.641 2017-05-11 17:51:23.633 nodejs.TypeErrorException: TypeError: data.stringify is not a function
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/BannerModel.js:23:21)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/server/models/BannerModel.js:9:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/server/models/BannerModel.js:9:361
+    at process._tickCallback (internal/process/next_tick.js:109:7)
+pid: 74698
+Host: yongchaowudeMacBook-Pro.local
+URL: 
+Data: ''
+2017-05-11 17:51:23.633
+
+2017-05-11 17:51:23.666 server error TypeError: Cannot read property 'banner' of undefined
+    at Aroad.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/Aroad/index.jsx:21:14)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:371:34)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+
+2017-05-11 17:55:00.176 server error TypeError: Cannot read property 'content' of undefined
+    at Banner (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/banner/index.jsx:10:52)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:306:16
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._constructComponentWithoutOwner (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:305:14)
+    at ReactCompositeComponentWrapper._constructComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:280:21)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:188:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+    at ReactDOMComponent.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:520:29)
+
+2017-05-11 17:57:05.342 server error TypeError: Cannot read property 'content' of undefined
+    at Banner (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/banner/index.jsx:11:52)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:306:16
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._constructComponentWithoutOwner (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:305:14)
+    at ReactCompositeComponentWrapper._constructComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:280:21)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:188:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+    at ReactDOMComponent.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:520:29)
+
+2017-05-11 17:58:32.024 server error { Invariant Violation: Banner(...): A valid React element (or null) must be returned. You may have returned undefined, an array or some other invalid object.
+    at invariant (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/fbjs/lib/invariant.js:44:15)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:195:114)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+    at ReactDOMComponent.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:520:29)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:371:34)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35) name: 'Invariant Violation', framesToPop: 1 }
+
+2017-05-11 18:09:45.971 server error TypeError: Cannot read property 'content' of undefined
+    at Banner (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/banner/index.jsx:10:52)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:306:16
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._constructComponentWithoutOwner (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:305:14)
+    at ReactCompositeComponentWrapper._constructComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:280:21)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:188:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+    at ReactDOMComponent.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:520:29)
+
+2017-05-11 18:10:27.617 server error TypeError: Cannot read property 'content' of undefined
+    at Banner (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/banner/index.jsx:10:52)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:306:16
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._constructComponentWithoutOwner (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:305:14)
+    at ReactCompositeComponentWrapper._constructComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:280:21)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:188:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+    at ReactDOMComponent.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:520:29)
+
+2017-05-11 18:10:51.071 server error TypeError: Cannot read property 'content' of undefined
+    at Banner (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/banner/index.jsx:10:52)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:306:16
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._constructComponentWithoutOwner (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:305:14)
+    at ReactCompositeComponentWrapper._constructComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:280:21)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:188:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+    at ReactDOMComponent.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:520:29)
+
+2017-05-11 18:10:55.541 server error TypeError: Cannot read property 'content' of undefined
+    at Banner (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/banner/index.jsx:10:52)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:306:16
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._constructComponentWithoutOwner (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:305:14)
+    at ReactCompositeComponentWrapper._constructComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:280:21)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:188:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+    at ReactDOMComponent.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:520:29)
+
+2017-05-11 18:11:24.804 server error TypeError: Cannot read property 'content' of undefined
+    at Banner (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/banner/index.jsx:10:52)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:306:16
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._constructComponentWithoutOwner (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:305:14)
+    at ReactCompositeComponentWrapper._constructComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:280:21)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:188:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+    at ReactDOMComponent.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:520:29)
+
+2017-05-11 18:11:49.695 server error TypeError: Cannot read property 'content' of undefined
+    at Banner (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/banner/index.jsx:10:52)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:306:16
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._constructComponentWithoutOwner (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:305:14)
+    at ReactCompositeComponentWrapper._constructComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:280:21)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:188:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+    at ReactDOMComponent.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:520:29)
+
+2017-05-11 18:12:32.693 server error TypeError: Cannot read property 'content' of undefined
+    at Banner (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/banner/index.jsx:11:52)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:306:16
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._constructComponentWithoutOwner (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:305:14)
+    at ReactCompositeComponentWrapper._constructComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:280:21)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:188:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+    at ReactDOMComponent.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:520:29)
+
+2017-05-11 18:12:53.242 server error TypeError: Cannot read property 'content' of undefined
+    at Banner (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/banner/index.jsx:11:52)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:306:16
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._constructComponentWithoutOwner (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:305:14)
+    at ReactCompositeComponentWrapper._constructComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:280:21)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:188:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+    at ReactDOMComponent.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:520:29)
+
+2017-05-11 18:12:54.037 server error TypeError: Cannot read property 'content' of undefined
+    at Banner (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/banner/index.jsx:11:52)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:306:16
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._constructComponentWithoutOwner (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:305:14)
+    at ReactCompositeComponentWrapper._constructComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:280:21)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:188:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+    at ReactDOMComponent.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:520:29)
+
+2017-05-11 18:13:18.659 server error TypeError: Cannot read property 'content' of undefined
+    at Banner (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/banner/index.jsx:11:52)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:306:16
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._constructComponentWithoutOwner (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:305:14)
+    at ReactCompositeComponentWrapper._constructComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:280:21)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:188:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+    at ReactDOMComponent.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:520:29)
+
+2017-05-11 18:16:58.991 server error ReferenceError: data is not defined
+    at Banner (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/banner/index.jsx:6:26)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:306:16
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._constructComponentWithoutOwner (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:305:14)
+    at ReactCompositeComponentWrapper._constructComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:280:21)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:188:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+    at ReactDOMComponent.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:520:29)
+
+2017-05-11 18:17:01.371 server error ReferenceError: data is not defined
+    at Banner (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/banner/index.jsx:6:26)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:306:16
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._constructComponentWithoutOwner (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:305:14)
+    at ReactCompositeComponentWrapper._constructComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:280:21)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:188:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+    at ReactDOMComponent.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:520:29)
+
+2017-05-11 18:17:45.612 server error TypeError: Cannot read property 'content' of undefined
+    at Banner (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/banner/index.jsx:11:52)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:306:16
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._constructComponentWithoutOwner (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:305:14)
+    at ReactCompositeComponentWrapper._constructComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:280:21)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:188:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+    at ReactDOMComponent.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:520:29)
+

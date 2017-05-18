@@ -1,0 +1,68 @@
+@import "./../../scss/_base.scss";
+
+.AreportList {
+    background: #eff2f9;
+    @extend %clearfix;
+}
+.item {
+    margin: 0 0 uc(10) 0;
+    padding: uc(20);
+    background: #fff;
+}
+.item h2 {
+    font-size: 20px;
+    a {
+        text-decoration: none;
+        color: #606784;
+    }
+}
+.time {
+    margin: uc(10) 0 0 0;
+    font-size: 13px;
+    b {
+        display: inline-block;
+        margin-right: uc(20);
+        padding-left: uc(20);
+
+        color: #5aacf3;
+        font-weight: 100;
+        background: url(./i_report.png) no-repeat center left;
+        background-size: uc(16) uc(16);
+    }
+    span {
+        color: #606784;
+        opacity: .5;
+    }
+}
+.text {
+    margin: uc(20) 0;
+
+    line-height: 1.8;
+    font-size: 13px;
+    color: #606784;
+}
+.img {
+    img {
+        width: 100%;
+    }   
+}
+
+
+[data-dpr="2"] .item {
+    font-size: 26px;
+    h2 {
+        font-size: 40px;
+    }
+}
+[data-dpr="2"] .text {
+    font-size: 26px;
+}
+[data-dpr="3"] .item {
+    font-size: 39px;
+    h2 {
+        font-size: 60px;
+    }
+}
+[data-dpr="3"] .text {
+    font-size: 39px;
+}

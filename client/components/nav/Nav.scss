@@ -1,0 +1,117 @@
+@import "./../../scss/_base.scss";
+
+.nav {
+    width: 100%;
+    height: uc(44);
+    position: relative;
+
+    text-align: right;
+
+    background: #30343f;
+}
+.home,
+.download,
+.menu {
+    display: inline-block;
+    width: uc(24);
+    height: uc(24);
+    margin: uc(5) uc(10) 0 uc(10);
+    
+    position: relative;
+}
+.home {
+    top: uc(3);
+
+    background: url(./i_home.png) no-repeat center;
+    background-size: uc(24) uc(24);
+}
+.homeCur {
+    @extend .home;
+
+    background: url(./i_home_cur.png) no-repeat center;
+    background-size: uc(24) uc(24);
+}
+.download {
+    top: uc(3);
+
+    background: url(./i_download.png) no-repeat center;
+    background-size: uc(24) uc(24);
+}
+.downloadCur {
+    @extend .download;
+
+    background: url(./i_download_cur.png) no-repeat center;
+    background-size: uc(24) uc(24);
+}
+.menu {
+    border: 0;
+
+    background: url(./i_menu.png) no-repeat center;
+    background-size: uc(24) uc(24);
+}
+.hide {
+    display: none;
+    position: absolute;
+    
+    width: 100%;
+    
+    top: uc(44);
+
+    line-height: 1;
+    background: rgba(0, 0, 0, .7);
+    text-align: left;
+    z-index: 10;
+}
+.items {
+    position: relative;
+    padding: 0 uc(44);
+    z-index: 9;
+    li {
+        display: block;
+        padding: uc(15) 0;
+
+        border-bottom: 1px solid rgba(255, 255, 255, .2);
+    }
+    a {
+        display: block;
+        font-size: 14px;
+        color: #fff;
+        text-decoration: none;
+    }
+}
+.hide:before {
+    position: absolute;
+    top: uc(-7);
+    right: uc(14);
+
+    width: 0;
+    height: 0;
+
+    border-left: uc(7) solid transparent;
+    border-right: uc(7) solid transparent;
+    border-bottom: uc(7) solid rgba(0, 0, 0, .7);
+    content: '';
+}
+.show {
+    @extend .hide;
+    display: block
+}
+.bg {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+
+[data-dpr="2"] .items {
+    a {
+        font-size: 28px;
+    }
+}
+[data-dpr="3"] .items {
+    a {
+        font-size: 42px;
+    }
+}

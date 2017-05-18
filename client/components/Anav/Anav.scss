@@ -1,0 +1,109 @@
+@import "./../../scss/_base.scss";
+
+.Anav {
+    background: #2f3440;
+    ul {
+        width: 100%;
+        @extend %clearfix;
+    }
+    li {
+        width: 33%;
+        float: left;
+
+        text-align: center;
+    }
+    a {
+        display: block;
+        width: 100%;
+        height: uc(53);
+        padding: uc(80) 0 0 0;
+
+        color: #fff;
+        text-decoration: none;
+        opacity:.5;
+    }
+}
+.about {
+    border-bottom: 1px solid rgba(0, 0, 0, .1);
+    border-right: 1px solid rgba(0, 0, 0, .1);
+
+    background: url(./i_about.png) no-repeat center uc(40);
+    background-size: uc(43) uc(33);
+}
+.aboutCur {
+    @extend .about;
+    background: url(./i_about_cur.png) no-repeat center uc(40);
+    background-size: uc(43) uc(33);
+    a {
+        color: #35adf9;    
+    }
+}
+.road {
+    border-bottom: 1px solid rgba(0, 0, 0, .1);
+    border-right: 1px solid rgba(0, 0, 0, .1);
+
+    background: url(./i_road.png) no-repeat center uc(40);
+    background-size: uc(37) uc(33);
+}
+.roadCur {
+    @extend .road;
+    background: url(./i_road_cur.png) no-repeat center uc(40);
+    background-size: uc(37) uc(33);
+    a {
+        color: #35adf9;    
+    }
+}
+.report {
+    border-bottom: 1px solid rgba(0, 0, 0, .1);
+
+    background: url(./i_report.png) no-repeat center uc(40);
+    background-size: uc(41) uc(33);
+}
+.reportCur {
+    @extend .report;
+    background: url(./i_report_cur.png) no-repeat center uc(40);
+    background-size: uc(41) uc(33);
+    a {
+        color: #35adf9;    
+    }
+}
+.biz {
+    border-right: 1px solid rgba(0, 0, 0, .1);
+
+    background: url(./i_biz.png) no-repeat center uc(40);
+    background-size: uc(38) uc(33);
+}
+.bizCur {
+    @extend .biz;
+    background: url(./i_biz_cur.png) no-repeat center uc(40);
+    background-size: uc(38) uc(33);
+    a {
+        color: #35adf9;    
+    }
+}
+.brand {
+    border-right: 1px solid rgba(0, 0, 0, .1);
+
+    background: url(./i_brand.png) no-repeat center uc(40);
+    background-size: uc(34) uc(33);
+}
+.brandCur {
+    @extend .brand;
+    background: url(./i_brand_cur.png) no-repeat center uc(40);
+    background-size: uc(34) uc(33);
+    a {
+        color: #35adf9;    
+    }
+}
+.join {
+    background: url(./i_join.png) no-repeat center uc(40);
+    background-size: uc(32) uc(33);
+}
+.joinCur {
+    @extend .join;
+    background: url(./i_join_cur.png) no-repeat center uc(40);
+    background-size: uc(32) uc(33);
+    a {
+        color: #35adf9;    
+    }
+}

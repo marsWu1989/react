@@ -1,0 +1,107 @@
+@import "./../../scss/_base.scss";
+
+.Dinter {
+    display: block;
+    width: 100%;
+    padding: uc(10) 0;
+    
+    color: #5f6787;
+    background: #e2e4ec;
+}
+.title {
+    width: uc(100);
+    margin: uc(15) auto;
+    padding-right: uc(14);
+
+    font-size: 24px;
+
+    background: url(./i_inter.png) no-repeat center right;
+    background-size: uc(22) uc(22);
+}
+.items {
+    @extend %clearfix;
+}
+.item {
+    float: left;
+    width: uc(160);
+    margin: 0 0 uc(30) uc(20);
+    line-height: 1.1;
+    p {
+        margin: 0 0 uc(15) 0;
+    }
+    b {
+        display: block;
+        padding: uc(3) 0 0 0;
+        
+        font-size: 14px;
+    }
+    span {
+        display: block;
+        margin: uc(3) 0 0 0;
+
+        font-size: 12px;
+        opacity: .8;
+    }
+}
+.iphone {
+    padding: 0 0 0 uc(35);
+
+    background: url(./i_apple_blue.png) no-repeat center left;
+    background-size: uc(30) uc(34);
+}
+.and {
+    padding: 0 0 0 uc(35);
+
+    background: url(./i_and_blue.png) no-repeat center left;
+    background-size: uc(30) uc(33);
+}
+.btu {
+    display: block;
+    width: uc(150);
+    padding: uc(12) 0;
+    border-radius: uc(3);
+    border: 1px solid #35adf9;
+
+    color: #fff;
+    font-size: 12px;
+    background: #35adf9;
+    text-align: center;
+    text-decoration: none;
+}
+.pic {
+    display: block;
+    width: uc(334);
+    height: uc(224);
+    margin: uc(20) auto;
+
+    background: url(./p_inter.png) no-repeat center;
+    background-size: 100%;
+}
+[data-dpr="2"] .item {
+    b {
+        font-size: 28px;
+    }
+    span {
+        font-size: 24px;
+    }
+}
+[data-dpr="2"] .title {
+    font-size: 48px;
+}
+[data-dpr="2"] .btu {
+    font-size: 24px;
+}
+[data-dpr="3"] .item {
+    b {
+        font-size: 42px;
+    }
+    span {
+        font-size: 36px;
+    }
+}
+[data-dpr="3"] .title {
+    font-size: 72px;
+}
+[data-dpr="3"] .btu {
+    font-size: 36px;
+}

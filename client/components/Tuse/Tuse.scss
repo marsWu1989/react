@@ -1,0 +1,49 @@
+@import "./../../scss/_base.scss";
+
+.Tuse {
+    padding: uc(10);
+    background: #f6f6f6;
+}
+.title {
+    margin: uc(10) 0 uc(10) 0;
+    color: #000;
+    font-size: 15px;
+    text-align: center;
+    opacity: .8
+}
+.list {
+    padding: uc(10);
+    li {
+        display: inline-block;
+        margin: uc(10) uc(25);
+    }
+}
+.stateGrid {
+    width: uc(67);
+    height: uc(18);
+    background: url(./i_StateGrid.png) no-repeat;
+    background-size: 100%;
+}
+.amap {
+    width: uc(62);
+    height: uc(17);
+    background: url(./i_amap.png) no-repeat;
+    background-size: 100%;
+}
+.coca {
+    width: uc(49);
+    height: uc(16);
+    background: url(./i_coca.png) no-repeat;
+    background-size: 100%;
+}
+.line {
+    display: block;
+    margin: uc(20) uc(30);
+    border-top: 1px dashed rgba(0, 0, 0, .1);
+}
+[data-dpr="2"] .title {
+    font-size: 30px;
+}
+[data-dpr="3"] .title {
+    font-size: 45px;
+}

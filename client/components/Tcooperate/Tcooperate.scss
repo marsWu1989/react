@@ -1,0 +1,79 @@
+@import "./../../scss/_base.scss";
+
+.Tcooperate {
+    padding: uc(10);
+    background: #f6f6f6;
+}
+.title {
+    margin: 0 0 uc(10) 0;
+    color: #000;
+    font-size: 15px;
+    text-align: center;
+    opacity: .8
+}
+.list {
+    padding: uc(10);
+
+    text-align: center;
+    li {
+        display: inline-block;
+        position: relative;
+        margin: uc(10) uc(25);
+    }
+}
+.line {
+    display: block;
+    margin: uc(20) uc(30);
+    border-top: 1px dashed rgba(0, 0, 0, .1);
+}
+.aliyun {
+    width: uc(25);
+    height: uc(23);
+
+    background: url(./i_aliyun.png) no-repeat;
+    background-size: 100%;
+}
+.qqBrowser {
+    width: uc(28);
+    height: uc(24);
+
+    background: url(./i_qqBrowser.png) no-repeat;
+    background-size: 100%;
+}
+.JD {
+    width: uc(38);
+    height: uc(14);
+    top: uc(-5);
+
+    background: url(./i_JD.png) no-repeat;
+    background-size: 100%;
+}
+.alipay {
+    width: uc(35);
+    height: uc(11);
+    top: uc(-5);
+
+    background: url(./i_alipay.png) no-repeat;
+    background-size: 100%;
+}
+._58 {
+    width: uc(58);
+    height: uc(14);
+
+    background: url(./i_58.png) no-repeat;
+    background-size: 100%;
+}
+.didi {
+    width: uc(48);
+    height: uc(17);
+    top: uc(2);
+
+    background: url(./i_didi.png) no-repeat;
+    background-size: 100%;
+}
+[data-dpr="2"] .title {
+    font-size: 30px;
+}
+[data-dpr="3"] .title {
+    font-size: 45px;
+}

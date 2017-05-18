@@ -1,0 +1,55 @@
+@import "./../../scss/_base.scss";
+
+.AaboutCount {
+    width: 100%;
+    height: uc(212);
+    padding: uc(20) 0;
+    
+    background: url(./bg_num.jpg) no-repeat;
+    background-size: 100%;
+    text-align: center;
+}
+.AaboutCount h3 {
+    margin: uc(30) 0 uc(20) 0;
+
+    color: #fff;
+    font-size: 13px;
+}
+.count {
+    display: inline-block;
+    width: uc(24);
+    height: uc(28);
+    margin: 0 0 0 uc(3);
+
+    line-height: uc(28);
+    font-size: 26px;
+    color: #606784;
+    background: url(./i_num.png) no-repeat;
+    background-size: 100%;
+}
+.default {
+    display: inline-block;
+    margin: 0 0 0 uc(3);
+
+    color: #fff;
+    font-size: 26px;
+}
+[data-dpr="2"] .AaboutCount h3 {
+    font-size: 26px;
+}
+[data-dpr="2"] .count {
+    font-size: 52px;
+}
+[data-dpr="2"] .default {
+    font-size: 52px;
+}
+
+[data-dpr="3"] .AaboutCount h3 {
+    font-size: 42px;
+}
+[data-dpr="3"] .count {
+    font-size: 78px;
+}
+[data-dpr="3"] .default {
+    font-size: 78px;
+}

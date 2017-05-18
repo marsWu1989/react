@@ -1,0 +1,151 @@
+@import "./../../scss/_base.scss";
+
+.Tbanner {
+    position: relative;
+    width: uc(375);
+    height: uc(190);
+    overflow: hidden;
+}
+.bannerItem {
+    position: absolute;
+    width: 400%;
+    left: 0;
+    transition: left 1s;
+}
+.server {
+    display: block;
+    float: left;
+    width: uc(375);
+    height: uc(190);
+
+    color: #fff;
+    background: url(./bg_1.jpg) no-repeat;
+    background-size: 100%;
+}
+.overall {
+    @extend .server;
+    display: block;
+    background: url(./bg_2.jpg) no-repeat;
+    background-size: 100%;
+}
+.accurate {
+    @extend .server;
+    display: block;
+    background: url(./bg_3.jpg) no-repeat;
+    background-size: 100%;
+}
+.stable {
+    @extend .server;
+    display: block;
+    background: url(./bg_4.jpg) no-repeat;
+    background-size: 100%;
+}
+.title {
+    padding: uc(20) 0 uc(10) uc(15);
+
+    font-size: 22px;
+    font-weight: 100;
+}
+.overall .title {
+    float: right;
+    margin: uc(50) uc(15) uc(5) 0;
+    padding: uc(5) uc(25);
+
+    background: #ffb941;
+}
+.accurate .title {
+    float: right;
+    margin: uc(50) uc(15) uc(5) 0;
+    padding: uc(5) uc(25);
+
+    background: #76da5e;
+}
+.stable .title {
+    float: right;
+    margin: uc(50) uc(15) uc(5) 0;
+    padding: uc(5) uc(25);
+
+    background: #a564ef;
+}
+.desc {
+    padding: 0 0 0 uc(15);
+
+    font-size: 12px;
+}
+.overall .desc{
+    float: right;
+    margin: 0 uc(15) 0 0;
+
+    line-height: 1.5;
+    text-align: right;
+}
+.accurate .desc{
+    float: right;
+    margin: 0 uc(15) 0 0;
+
+    line-height: 1.5;
+    text-align: right;
+}
+.stable .desc{
+    float: right;
+    margin: 0 uc(15) 0 0;
+
+    line-height: 1.5;
+    text-align: right;
+}
+.line {
+    display: block;
+    width: uc(150);
+    margin: uc(10) 0 uc(10) uc(15);
+
+    border-bottom: 1px solid #fff;
+    opacity: .3;
+}
+.num {
+    margin: uc(10) 0 0 uc(15);
+    ul {
+        display: inline-block;
+    }
+}
+.number {
+    display: inline-block;
+    margin: 0 uc(3) 0 0;
+    padding: uc(2) uc(5);
+    border-radius: 3px;
+
+    background: rgba(255, 255, 255, .15);
+}
+.spotBox {
+    position: absolute;
+    left: 0;
+    bottom: uc(5);
+    width: 100%;
+    text-align: center;
+}
+.spot {
+    display: inline-block;
+    width: uc(8);
+    height: uc(8);
+    margin: 0 uc(5);
+    
+    border-radius: 50%;
+    background: #fff;
+    opacity: .3;
+}
+.spotCur {
+    @extend .spot;
+    opacity: 1;
+}
+
+[data-dpr="2"] .title {
+    font-size: 44px;
+}
+[data-dpr="2"] .desc {
+    font-size: 24px;
+}
+[data-dpr="3"] .title {
+    font-size: 66px;
+}
+[data-dpr="3"] .desc {
+    font-size: 36px;
+}

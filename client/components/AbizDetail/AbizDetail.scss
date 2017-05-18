@@ -1,0 +1,36 @@
+@import "./../../scss/_base.scss";
+
+.AbizDetail {
+    padding: uc(20);
+}
+.title {
+    display: block;
+    width: uc(138);
+    height: uc(79);
+    margin: uc(20)  auto;
+
+    background: url(./t_title.png) no-repeat;
+    background-size: 100%;
+}
+.text {
+    p {
+        display: block;
+        padding: uc(5) 0;
+
+        line-height: 2;
+        color: #606784;
+        font-size: 13px;
+        text-indent: 26px;
+        opacity: .8;
+    }
+}
+[data-dpr="2"] .text{
+    p {
+        font-size: 26px;
+    }
+}
+[data-dpr="3"] .text{
+    p {
+        font-size: 42px;
+    }
+}

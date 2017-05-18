@@ -1,0 +1,200 @@
+@import "./../../scss/_base.scss";
+
+.AroadYear {
+    position: relative;
+    width: uc(335);
+    padding: uc(20);
+}
+
+.dashline {
+    width: uc(2);
+    height: uc(64);
+    background: url(./i_line.png) 0 0 no-repeat;
+    background-size: 100% 100%;
+    margin: 0 0 uc(10) uc(90);
+}
+.item {
+    margin: 0 0 uc(30) 0;
+
+    @extend %clearfix;
+}
+.item dl {
+    float: left;
+    margin: uc(10) 0 0 0;
+    line-height: 1;
+    text-align: right;
+}
+.item dt {
+    font-size: 25px;
+    color: #606784;
+}
+.month_en {
+    font-size: 12px;
+    color: rgba(96, 103, 132, .8);
+}
+.month_en_blue {
+    @extend .month_en;
+
+    color: #5aacf3;
+}
+.month_cn {
+    font-size: 16px;
+    margin-top: uc(10);
+    font-weight: bold;
+    color: rgba(96, 103, 132, .8);
+}
+.month_cn_blue {
+    @extend .month_cn;
+
+    color: #5aacf3;
+}
+.month_en span,
+.month_cn span {
+    display: inline-block;
+    width: uc(5);
+}
+.icon {
+    float: left;
+    text-align: center;
+    width: uc(66);
+
+}
+.img {
+    display: block;
+    margin: uc(6) auto 0 auto;
+}
+.i_2016 {
+    @extend .img;
+
+    width: uc(26);
+    height: uc(25);
+    background: url(./i_2016.png) 0 0 no-repeat;
+    background-size: 100% 100%;
+}
+.i_2015 {
+    @extend .img;
+
+    width: uc(21);
+    height: uc(32);
+    margin-top: uc(3);
+
+    background: url(./i_2015.png) 0 0 no-repeat;
+    background-size: 100% 100%;
+}
+.i_2014_12 {
+    @extend .img;
+
+    width: uc(26);
+    height: uc(26);
+    background: url(./i_2014_12.png) 0 0 no-repeat;
+    background-size: 100% 100%;
+}
+.i_2014_5 {
+    @extend .img;
+
+    width: uc(26);
+    height: uc(26);
+    background: url(./i_2014_5.png) 0 0 no-repeat;
+    background-size: 100% 100%;
+ }
+.i_2013 {
+    @extend .img;
+
+    width: uc(26);
+    height: uc(21);
+    background: url(./i_2013.png) 0 0 no-repeat;
+    background-size: 100% 100%;
+}
+.i_2012 {
+    @extend .img;
+
+    width: uc(26);
+    height: uc(25);
+    background: url(./i_2012.png) 0 0 no-repeat;
+    background-size: 100% 100%;
+}
+.i_2011 {
+    @extend .img;
+
+    width: uc(26);
+    height: uc(29);
+    background: url(./i_2011.png) 0 0 no-repeat;
+    background-size: 100% 100%;
+}
+.i_2010 {
+    @extend .img;
+
+    width: uc(33);
+    height: uc(13);
+    margin-top: uc(12);
+
+    background: url(./i_2010.png) 0 0 no-repeat;
+    background-size: 100% 100%;
+}
+.i_2009 {
+    @extend .img;
+
+    width: uc(14);
+    height: uc(26);
+    background: url(./i_2009.png) 0 0 no-repeat;
+    background-size: 100% 100%;
+}
+
+
+
+.line {
+    margin: uc(15) auto;
+    width: uc(2);
+    height: 114px;
+    background: rgba(96, 103, 132, .15);
+}
+.item p {
+    position: relative;
+    float: left;
+    width: uc(200);
+    margin: uc(8) 0 uc(30) 0;
+
+    font-size: 12px;
+    line-height: 1.5;
+    color: rgba(96, 103, 132, .8);
+}
+.item p:before {
+    position: absolute;
+    left: uc(-34);
+    top: uc(45);
+
+    height: 100%;
+
+    border-left: 2px solid rgba(96, 103, 132, .15);
+    content: '';
+}
+.blue {
+    line-height: 1;
+    color: #5aacf3;
+}
+
+[data-dpr="2"] .item dt {
+    font-size: 50px;
+}
+[data-dpr="2"] .month_en {
+    font-size: 24px;
+}
+[data-dpr="2"] .month_cn {
+    font-size: 32px;
+}
+[data-dpr="2"] .item p {
+    font-size: 24px;
+}
+
+[data-dpr="3"] .item dt {
+    font-size: 75px;
+}
+[data-dpr="3"] .month_en {
+    font-size: 36px;
+}
+[data-dpr="3"] .month_cn {
+    font-size: 48px;
+}
+[data-dpr="3"] .item p {
+    font-size: 36px;
+}

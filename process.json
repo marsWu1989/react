@@ -1,0 +1,8 @@
+{
+    "apps": [{
+        "script": "bin/entry.js",
+        "name": "mobile",
+        "cwd": "/Users/z/m/z/weather_mobile_react",
+        "watch": true
+    }]
+}

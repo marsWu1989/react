@@ -1,0 +1,18 @@
+@import "./../../scss/_base.scss";
+
+.hide {
+    display: none;
+    position: fixed;
+    right: uc(10);
+    bottom: uc(69);
+
+    width: uc(52);
+    height: uc(52);
+
+    background: url(./toTop.png) no-repeat center;
+    background-size: 100%;
+}
+.show {
+    @extend .hide;
+    display: block
+}

@@ -1,0 +1,42 @@
+@import "./_base.scss";
+html {
+    -webkit-tap-highlight-color: transparent;
+    -moz-tap-highlight-color: transparent;
+    outline: 0;
+    font-family: "Microsoft YaHei", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+// reset default margin
+body,
+ul,
+p,
+dl,
+dd,
+h1,
+h2,
+h3 {
+    margin: 0;
+}
+
+// reset default padding
+ul {
+    padding: 0;
+}
+
+ul,
+li {
+    list-style: none;
+}
+
+body {
+    margin: 0 auto;
+    width: uc(375);
+}
+
+h1,
+h2,
+h3,
+em,
+b,
+strong {
+    font-weight: 100;
+}

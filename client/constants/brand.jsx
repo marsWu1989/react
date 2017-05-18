@@ -1,0 +1,2 @@
+export const BRAND_REQUEST = 'BRAND_REQUEST';
+export const BRAND_RECEIVE = 'BRAND_RECEIVE';

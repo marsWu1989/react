@@ -1,0 +1,204 @@
+2017-04-18 11:26:12.293 server error ReferenceError: news is not defined
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:15:28)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:61:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+    at getComponentsForRoute (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:11:5)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:35:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:84:5
+    at Array.forEach (native)
+
+2017-04-18 11:26:48.832 server error ReferenceError: news is not defined
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:15:28)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:61:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+    at getComponentsForRoute (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:11:5)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:35:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:84:5
+    at Array.forEach (native)
+
+2017-04-18 11:28:55.341 server error TypeError: Cannot read property 'data' of null
+    at Header.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/header/index.jsx:18:22)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+
+2017-04-18 11:29:47.514 server error TypeError: Cannot read property 'data' of undefined
+    at IndexInfo (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/indexInfo/index.jsx:12:21)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:306:16
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._constructComponentWithoutOwner (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:305:14)
+    at ReactCompositeComponentWrapper._constructComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:280:21)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:188:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+    at ReactDOMComponent.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:520:29)
+
+2017-04-18 11:30:00.748 server error TypeError: Cannot read property 'data' of undefined
+    at IndexInfo (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/indexInfo/index.jsx:12:21)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:306:16
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._constructComponentWithoutOwner (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:305:14)
+    at ReactCompositeComponentWrapper._constructComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:280:21)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:188:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+    at ReactDOMComponent.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:520:29)
+
+2017-04-18 11:31:17.194 server error TypeError: Cannot read property 'data' of undefined
+    at IndexInfo (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/indexInfo/index.jsx:12:21)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:306:16
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._constructComponentWithoutOwner (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:305:14)
+    at ReactCompositeComponentWrapper._constructComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:280:21)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:188:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+    at ReactDOMComponent.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:520:29)
+
+2017-04-18 11:32:47.258 server error TypeError: Cannot read property 'data' of undefined
+    at IndexInfo (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/indexInfo/index.jsx:12:21)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:306:16
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._constructComponentWithoutOwner (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:305:14)
+    at ReactCompositeComponentWrapper._constructComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:280:21)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:188:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+    at ReactDOMComponent.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:520:29)
+
+2017-04-18 11:33:22.450 server error TypeError: Cannot read property 'data' of undefined
+    at IndexInfo (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/indexInfo/index.jsx:12:21)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:306:16
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._constructComponentWithoutOwner (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:305:14)
+    at ReactCompositeComponentWrapper._constructComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:280:21)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:188:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+    at ReactDOMComponent.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:520:29)
+
+2017-04-18 11:34:17.899 server error ReferenceError: window is not defined
+    at ToTop.componentWillMount (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/toTop/index.jsx:14:9)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:348:23
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:347:9)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+    at ReactDOMComponent.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:520:29)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+
+2017-04-18 11:36:01.231 server error TypeError: Cannot read property 'data' of null
+    at Header.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/header/index.jsx:18:22)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+
+2017-04-18 11:38:52.643 server error Error: Given action "NEWS", reducer "news" returned undefined. To ignore an action, you must explicitly return the previous state.
+    at combination (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/combineReducers.js:135:15)
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/createStore.js:179:22)
+    at Object.dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux-thunk/lib/index.js:14:16)
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:16:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:61:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+    at getComponentsForRoute (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:11:5)
+
+2017-04-18 11:43:14.582 server error Error: Given action "NEWS", reducer "news" returned undefined. To ignore an action, you must explicitly return the previous state.
+    at combination (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/combineReducers.js:135:15)
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/createStore.js:179:22)
+    at Object.dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux-thunk/lib/index.js:14:16)
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:16:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:61:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+    at getComponentsForRoute (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:11:5)
+
+2017-04-18 11:45:39.002 server error Error: Given action "NEWS", reducer "news" returned undefined. To ignore an action, you must explicitly return the previous state.
+    at combination (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/combineReducers.js:135:15)
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/createStore.js:179:22)
+    at Object.dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux-thunk/lib/index.js:14:16)
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:16:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:61:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+    at getComponentsForRoute (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:11:5)
+
+2017-04-18 11:47:43.682 server error Error: Given action "NEWS", reducer "news" returned undefined. To ignore an action, you must explicitly return the previous state.
+    at combination (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/combineReducers.js:135:15)
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux/lib/createStore.js:179:22)
+    at Object.dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/redux-thunk/lib/index.js:14:16)
+    at exports.default (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/query.js:16:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/render.jsx:61:17
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/match.js:67:5
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/createTransitionManager.js:99:11
+    at done (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:79:19)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/AsyncUtils.js:85:7
+    at getComponentsForRoute (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-router/lib/getComponents.js:11:5)
+
+2017-04-18 11:59:51.750 server error TypeError: Cannot read property 'data' of null
+    at Header.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/header/index.jsx:18:22)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+
+2017-04-18 11:59:52.350 server error TypeError: Cannot read property 'data' of null
+    at Header.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/header/index.jsx:18:22)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+
+2017-04-18 12:00:24.706 server error TypeError: Cannot read property 'data' of null
+    at Header.render (/Users/yongchao.wu/gitlab/weather_website_mobile/client/components/header/index.jsx:18:22)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:796:21
+    at measureLifeCyclePerf (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:75:12)
+    at ReactCompositeComponentWrapper._renderValidatedComponentWithoutOwnerOrContext (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:795:25)
+    at ReactCompositeComponentWrapper._renderValidatedComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:822:32)
+    at ReactCompositeComponentWrapper.performInitialMount (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:362:30)
+    at ReactCompositeComponentWrapper.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactCompositeComponent.js:258:21)
+    at Object.mountComponent (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactReconciler.js:46:35)
+    at ReactDOMComponent.mountChildren (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactMultiChild.js:238:44)
+    at ReactDOMComponent._createContentMarkup (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/react-dom/lib/ReactDOMComponent.js:653:32)
+

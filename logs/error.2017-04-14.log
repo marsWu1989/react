@@ -1,0 +1,97 @@
+2017-04-14 12:05:23.410 server error TypeError: _WeatherModel2.default.news is not a function
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:5:45)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:13:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:13:437
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:13:99
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:48:21
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:45:18)
+
+2017-04-14 12:05:23.433 server error { TypeError: _WeatherModel2.default.news is not a function
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:5:45)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:13:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:13:437
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:13:99
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:48:21
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:45:18)
+  headers: { 'Access-Control-Allow-Origin': 'http://0.0.0.0:9527' } }
+
+2017-04-14 12:05:25.559 server error TypeError: _WeatherModel2.default.news is not a function
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:5:45)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:13:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:13:437
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:13:99
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:48:21
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:45:18)
+
+2017-04-14 12:05:33.907 server error TypeError: _WeatherModel2.default.news is not a function
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:5:45)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:13:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:13:437
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:13:99
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:48:21
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:45:18)
+
+2017-04-14 12:05:34.850 server error TypeError: _WeatherModel2.default.news is not a function
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:5:45)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:13:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:13:437
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:13:99
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:48:21
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:45:18)
+
+2017-04-14 12:05:48.038 server error TypeError: _WeatherModel2.default.news is not a function
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:5:45)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:13:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:13:437
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:13:99
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:48:21
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:45:18)
+
+2017-04-14 12:06:28.496 server error TypeError: _WeatherModel2.default.news is not a function
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:5:45)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:13:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:13:437
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:13:99
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:48:21
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:45:18)
+
+2017-04-14 12:06:30.198 server error TypeError: _WeatherModel2.default.news is not a function
+    at _callee$ (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:5:45)
+    at tryCatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:64:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:299:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/regenerator-runtime/runtime.js:116:21)
+    at step (/Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:13:191)
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:13:437
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:13:99
+    at /Users/yongchao.wu/gitlab/weather_website_mobile/lib/hum.js:48:21
+    at dispatch (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yongchao.wu/gitlab/weather_website_mobile/node_modules/koa-compose/index.js:45:18)
+

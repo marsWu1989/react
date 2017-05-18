@@ -1,0 +1,24 @@
+@import "./../../scss/_base.scss";
+
+.newsNext {
+    padding: uc(10);
+    margin-bottom: uc(10);
+    color: rgba(96, 103, 132, .5);
+    font-size: 14px;
+    text-align: center;
+    background: #fff;
+    span {
+        display: block;
+        width: uc(110);
+        margin: 0 auto;
+
+        background: url(./i_next.png) no-repeat right center;
+        background-size: uc(20) uc(17);
+    }
+}
+[data-dpr="2"] .AreportNext {
+    font-size: 28px;
+}
+[data-dpr="3"] .AreportNext {
+    font-size: 42px;
+}
